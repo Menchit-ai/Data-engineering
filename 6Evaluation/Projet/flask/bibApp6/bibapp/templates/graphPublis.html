@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+
+{% block content %}
+
+<div style="margin-left: 2%;">
+<h2 style="text-align: center;">
+Représentation des publis de {{ Qui }}
+</h2>
+<br>
+<br>
+<center>
+{% autoescape false %}
+
+    {{ graph }}
+{% endautoescape %}
+</center>
+
+</div>
+
+
+{% endblock %}

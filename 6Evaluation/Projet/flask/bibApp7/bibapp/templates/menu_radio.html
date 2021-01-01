@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block head %}
+    {{ super() }}
+        <title>{% block title %}
+        {% if title %}
+            {{ title }} 
+        {% else %}
+            Page
+        {% endif %}
+    {% endblock title %}</title>
+    <style> .container {
+        margin-left: 30px;
+    } 
+    </style>
+
+
+{% endblock %}
+
+
+{% block content %}
+
+    
+<div class="container">
+
+    {% for message in get_flashed_messages() %}
+    <div class="alert alert-warning">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        {{ message }}
+    </div>
+    {% endfor %}
+
+    {% block page_content %}{% endblock %}
+    {% block container %} {% endblock %}
+
+<H2>   {{ title }}  </H2>
+
+<form method="POST">
+    {{ form.radio.label}}
+    {% for subfield in form.radio %}
+    <tr>
+        <td>{{ subfield }}</td>
+        <td>{{ subfield.label }}</td>
+    </tr>
+    {% endfor %}
+    <p>
+    {{ form.hidden_tag() }}
+    {{ form.mySelect }} 
+    <p>
+
+    {{ form.submit(value="Go") }}
+     
+</form>    
+
+
+
+</div>
+
+{% endblock %}
+
+

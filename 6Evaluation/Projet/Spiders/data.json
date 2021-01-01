@@ -1,0 +1,3666 @@
+{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is a NullPointerException, and how do I fix it?", 
+    "votes": 209, 
+    "answers": 12, 
+    "time": null, 
+    "views": 2984824, 
+    "tags": [
+      "java", 
+      "nullpointerexception"
+    ], 
+    "author": "\r\n        Ziggy\r\n        "
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to make a great R reproducible example", 
+    "votes": 2470, 
+    "answers": 23, 
+    "time": null, 
+    "views": 330133, 
+    "tags": [
+      "r", 
+      "r-faq"
+    ], 
+    "author": "Hack-R"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I return the response from an asynchronous call?", 
+    "votes": 5763, 
+    "answers": 42, 
+    "time": "2013-01-08 17:06:14Z", 
+    "views": 1582519, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "ajax", 
+      "asynchronous"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I prevent SQL injection in PHP?", 
+    "votes": 2773, 
+    "answers": 28, 
+    "time": null, 
+    "views": 1825016, 
+    "tags": [
+      "php", 
+      "mysql", 
+      "sql", 
+      "security", 
+      "sql-injection"
+    ], 
+    "author": "Andrew G. Johnson"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "RegEx match open tags except XHTML self-contained tags", 
+    "votes": 1607, 
+    "answers": 36, 
+    "time": null, 
+    "views": 3001005, 
+    "tags": [
+      "html", 
+      "regex", 
+      "xhtml"
+    ], 
+    "author": "Jeff"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is a NullReferenceException, and how do I fix it?", 
+    "votes": 1874, 
+    "answers": 28, 
+    "time": null, 
+    "views": 1480212, 
+    "tags": [
+      "c#", 
+      ".net", 
+      "vb.net", 
+      "null", 
+      "nullreferenceexception"
+    ], 
+    "author": "John Saunders"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I compare strings in Java?", 
+    "votes": 724, 
+    "answers": 23, 
+    "time": null, 
+    "views": 4006483, 
+    "tags": [
+      "java", 
+      "string", 
+      "equality"
+    ], 
+    "author": "\r\n        Nathan H\r\n        "
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "\u201cNotice: Undefined variable\u201d, \u201cNotice: Undefined index\u201d, and \u201cNotice: Undefined offset\u201d using PHP", 
+    "votes": 1237, 
+    "answers": 28, 
+    "time": null, 
+    "views": 1841412, 
+    "tags": [
+      "php", 
+      "arrays", 
+      "variables", 
+      "warnings", 
+      "undefined-index"
+    ], 
+    "author": "Pekka \uc6c3"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is floating point math broken?", 
+    "votes": 3161, 
+    "answers": 31, 
+    "time": "2009-02-25 21:39:02Z", 
+    "views": 344603, 
+    "tags": [
+      "math", 
+      "language-agnostic", 
+      "floating-point", 
+      "floating-accuracy"
+    ], 
+    "author": "Cato Johnston"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "The Definitive C++ Book Guide and List", 
+    "votes": 4238, 
+    "answers": 1, 
+    "time": null, 
+    "views": 2487956, 
+    "tags": [
+      "c++", 
+      "c++-faq"
+    ], 
+    "author": "sbi"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why shouldn't I use mysql_* functions in PHP?", 
+    "votes": 2544, 
+    "answers": 12, 
+    "time": "2012-10-12 13:18:39Z", 
+    "views": 228866, 
+    "tags": [
+      "php", 
+      "mysql"
+    ], 
+    "author": "Madara's Ghost"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is an undefined reference/unresolved external symbol error and how do I fix it?", 
+    "votes": 1571, 
+    "answers": 34, 
+    "time": "2012-09-24 22:27:40Z", 
+    "views": 619737, 
+    "tags": [
+      "c++", 
+      "linker-errors", 
+      "undefined-reference", 
+      "c++-faq", 
+      "unresolved-external"
+    ], 
+    "author": "Luchian Grigore"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "PHP parse/syntax errors; and how to solve them", 
+    "votes": 680, 
+    "answers": 18, 
+    "time": null, 
+    "views": 588051, 
+    "tags": [
+      "php", 
+      "parsing", 
+      "debugging", 
+      "syntax-error"
+    ], 
+    "author": "mario"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Event binding on dynamically created elements?", 
+    "votes": 1677, 
+    "answers": 23, 
+    "time": "2008-10-14 23:25:19Z", 
+    "views": 893326, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "events", 
+      "unobtrusive-javascript"
+    ], 
+    "author": "Eli"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "JavaScript closure inside loops \u2013 simple practical example", 
+    "votes": 2918, 
+    "answers": 44, 
+    "time": "2009-04-15 06:06:20Z", 
+    "views": 397295, 
+    "tags": [
+      "javascript", 
+      "loops", 
+      "closures"
+    ], 
+    "author": "nickf"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Do I cast the result of malloc?", 
+    "votes": 2489, 
+    "answers": 29, 
+    "time": "2009-03-03 10:13:02Z", 
+    "views": 253168, 
+    "tags": [
+      "c", 
+      "malloc", 
+      "casting"
+    ], 
+    "author": "Patrick McDonald"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to access the correct `this` inside a callback?", 
+    "votes": 1532, 
+    "answers": 12, 
+    "time": "2013-11-29 06:13:11Z", 
+    "views": 449555, 
+    "tags": [
+      "javascript", 
+      "callback", 
+      "this"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Reference - What does this regex mean?", 
+    "votes": 52, 
+    "answers": 1, 
+    "time": null, 
+    "views": 134022, 
+    "tags": [
+      "regex"
+    ], 
+    "author": "HamZa"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to avoid using Select in Excel VBA", 
+    "votes": 552, 
+    "answers": 16, 
+    "time": "2012-05-23 05:57:58Z", 
+    "views": 302079, 
+    "tags": [
+      "excel", 
+      "vba"
+    ], 
+    "author": "BiGXERO"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Reference - What does this error mean in PHP?", 
+    "votes": 1169, 
+    "answers": 36, 
+    "time": null, 
+    "views": 219371, 
+    "tags": [
+      "php", 
+      "debugging", 
+      "error-handling", 
+      "warnings", 
+      "custom-error-handling"
+    ], 
+    "author": "miken32"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "PHP mail function doesn't complete sending of e-mail", 
+    "votes": 494, 
+    "answers": 26, 
+    "time": "2014-07-09 02:18:55Z", 
+    "views": 385332, 
+    "tags": [
+      "php", 
+      "html", 
+      "email"
+    ], 
+    "author": "user3818620"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is my variable unaltered after I modify it inside of a function? - Asynchronous code reference", 
+    "votes": 771, 
+    "answers": 6, 
+    "time": "2014-05-14 23:55:16Z", 
+    "views": 217924, 
+    "tags": [
+      "javascript", 
+      "asynchronous"
+    ], 
+    "author": "Fabr\u00edcio Matt\u00e9"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to fix \u201cHeaders already sent\u201d error in PHP", 
+    "votes": 831, 
+    "answers": 11, 
+    "time": null, 
+    "views": 1523362, 
+    "tags": [
+      "php", 
+      "header"
+    ], 
+    "author": "Moses89"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "When to use single quotes, double quotes, and backticks in MySQL", 
+    "votes": 661, 
+    "answers": 13, 
+    "time": "2012-07-04 01:53:36Z", 
+    "views": 219057, 
+    "tags": [
+      "mysql", 
+      "sql", 
+      "quotes"
+    ], 
+    "author": "Nate"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "UTF-8 all the way through", 
+    "votes": 1228, 
+    "answers": 16, 
+    "time": "2008-11-10 21:04:56Z", 
+    "views": 163955, 
+    "tags": [
+      "php", 
+      "mysql", 
+      "linux", 
+      "apache", 
+      "utf-8"
+    ], 
+    "author": "mercutio"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is Java \u201cpass-by-reference\u201d or \u201cpass-by-value\u201d?", 
+    "votes": 6830, 
+    "answers": 83, 
+    "time": null, 
+    "views": 2076254, 
+    "tags": [
+      "java", 
+      "methods", 
+      "parameter-passing", 
+      "pass-by-reference", 
+      "pass-by-value"
+    ], 
+    "author": "user4315"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is \u201cusing namespace std;\u201d considered bad practice?", 
+    "votes": 2785, 
+    "answers": 39, 
+    "time": "2009-09-21 03:08:23Z", 
+    "views": 870976, 
+    "tags": [
+      "c++", 
+      "namespaces", 
+      "std", 
+      "using-directives", 
+      "c++-faq"
+    ], 
+    "author": "akbiggs"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do you parse and process HTML/XML in PHP?", 
+    "votes": 2164, 
+    "answers": 30, 
+    "time": null, 
+    "views": 429159, 
+    "tags": [
+      "php", 
+      "xml", 
+      "parsing", 
+      "xml-parsing", 
+      "html-parsing"
+    ], 
+    "author": "RobertPitt"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why can templates only be implemented in the header file?", 
+    "votes": 1875, 
+    "answers": 17, 
+    "time": "2009-01-30 10:06:50Z", 
+    "views": 542197, 
+    "tags": [
+      "c++", 
+      "templates", 
+      "c++-faq"
+    ], 
+    "author": "MainID"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why does jQuery or a DOM method such as getElementById not find the element?", 
+    "votes": 508, 
+    "answers": 9, 
+    "time": "2012-12-25 08:26:26Z", 
+    "views": 130598, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "dom"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I access and process nested objects, arrays or JSON?", 
+    "votes": 924, 
+    "answers": 27, 
+    "time": "2012-08-12 13:02:12Z", 
+    "views": 758236, 
+    "tags": [
+      "javascript", 
+      "arrays", 
+      "object", 
+      "nested", 
+      "data-manipulation"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "mysqli_fetch_assoc() expects parameter / Call to a member function bind_param() errors. How to get the actual mysql error and fix it?", 
+    "votes": 118, 
+    "answers": 1, 
+    "time": "2014-03-26 13:27:38Z", 
+    "views": 33223, 
+    "tags": [
+      "php", 
+      "mysqli", 
+      "prepared-statement", 
+      "environment", 
+      "error-reporting"
+    ], 
+    "author": "siopaoman"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is iostream::eof inside a loop condition (i.e. `while (!stream.eof())`) considered wrong?", 
+    "votes": 614, 
+    "answers": 4, 
+    "time": "2011-04-09 12:49:36Z", 
+    "views": 68418, 
+    "tags": [
+      "c++", 
+      "iostream", 
+      "c++-faq"
+    ], 
+    "author": "MAK"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "SQL injection that gets around mysql_real_escape_string()", 
+    "votes": 680, 
+    "answers": 4, 
+    "time": "2011-04-21 07:56:11Z", 
+    "views": 251627, 
+    "tags": [
+      "php", 
+      "mysql", 
+      "sql", 
+      "security", 
+      "sql-injection"
+    ], 
+    "author": "Richard Knop"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "mysql_fetch_array()/mysql_fetch_assoc()/mysql_fetch_row()/mysql_num_rows etc\u2026 expects parameter 1 to be resource", 
+    "votes": 968, 
+    "answers": 31, 
+    "time": "2010-06-04 10:18:08Z", 
+    "views": 752965, 
+    "tags": [
+      "php", 
+      "mysql"
+    ], 
+    "author": "iamjonesy"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to make good reproducible pandas examples", 
+    "votes": 220, 
+    "answers": 5, 
+    "time": "2013-11-20 23:31:39Z", 
+    "views": 26408, 
+    "tags": [
+      "python", 
+      "pandas"
+    ], 
+    "author": "Marius"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the difference between client-side and server-side programming?", 
+    "votes": 517, 
+    "answers": 4, 
+    "time": "2012-12-12 13:03:00Z", 
+    "views": 43618, 
+    "tags": [
+      "javascript", 
+      "php", 
+      "client-side", 
+      "server-side"
+    ], 
+    "author": "deceze"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Scanner is skipping nextLine() after using next() or nextFoo()?", 
+    "votes": 741, 
+    "answers": 20, 
+    "time": "2012-10-27 16:37:01Z", 
+    "views": 557747, 
+    "tags": [
+      "java", 
+      "io", 
+      "java.util.scanner"
+    ], 
+    "author": "blekione"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to use ThreeTenABP in Android Project", 
+    "votes": 202, 
+    "answers": 3, 
+    "time": "2016-08-12 16:36:26Z", 
+    "views": 27004, 
+    "tags": [
+      "android", 
+      "datetime", 
+      "android-gradle-plugin", 
+      "threetenbp", 
+      "threetenabp"
+    ], 
+    "author": "kael"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to test multiple variables against a value?", 
+    "votes": 685, 
+    "answers": 25, 
+    "time": "2013-02-27 12:26:23Z", 
+    "views": 290567, 
+    "tags": [
+      "python", 
+      "if-statement", 
+      "comparison", 
+      "match", 
+      "boolean-logic"
+    ], 
+    "author": "user1877442"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What causes a java.lang.ArrayIndexOutOfBoundsException and how do I prevent it?", 
+    "votes": 312, 
+    "answers": 26, 
+    "time": "2011-04-05 15:54:03Z", 
+    "views": 686493, 
+    "tags": [
+      "java"
+    ], 
+    "author": "Aaron"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is \u201cwhile ( !feof (file) )\u201d always wrong?", 
+    "votes": 592, 
+    "answers": 5, 
+    "time": "2011-03-25 11:42:33Z", 
+    "views": 233786, 
+    "tags": [
+      "c", 
+      "file", 
+      "while-loop", 
+      "eof", 
+      "feof"
+    ], 
+    "author": "William Pursell"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is The Rule of Three?", 
+    "votes": 2220, 
+    "answers": 8, 
+    "time": "2010-11-13 13:27:09Z", 
+    "views": 295372, 
+    "tags": [
+      "c++", 
+      "copy-constructor", 
+      "assignment-operator", 
+      "c++-faq", 
+      "rule-of-three"
+    ], 
+    "author": "fredoverflow"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Unfortunately MyApp has stopped. How can I solve this?", 
+    "votes": 813, 
+    "answers": 20, 
+    "time": "2014-04-28 23:55:14Z", 
+    "views": 466968, 
+    "tags": [
+      "java", 
+      "android", 
+      "debugging", 
+      "kotlin"
+    ], 
+    "author": "nhaarman"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How does the \u201cthis\u201d keyword work?", 
+    "votes": 1350, 
+    "answers": 22, 
+    "time": "2010-06-27 13:12:56Z", 
+    "views": 411871, 
+    "tags": [
+      "javascript", 
+      "this"
+    ], 
+    "author": "Maxim Gershkovich"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Asking the user for input until they give a valid response", 
+    "votes": 609, 
+    "answers": 21, 
+    "time": null, 
+    "views": 600580, 
+    "tags": [
+      "python", 
+      "validation", 
+      "loops", 
+      "python-3.x", 
+      "user-input"
+    ], 
+    "author": "Kevin"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do JavaScript closures work?", 
+    "votes": 7633, 
+    "answers": 86, 
+    "time": null, 
+    "views": 1480611, 
+    "tags": [
+      "javascript", 
+      "function", 
+      "variables", 
+      "scope", 
+      "closures"
+    ], 
+    "author": "Zaheer Ahmed"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Understanding slice notation", 
+    "votes": 3584, 
+    "answers": 33, 
+    "time": "2009-02-03 22:31:02Z", 
+    "views": 1946281, 
+    "tags": [
+      "python", 
+      "list", 
+      "slice", 
+      "iterable"
+    ], 
+    "author": "Simon"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "List of lists changes reflected across sublists unexpectedly", 
+    "votes": 707, 
+    "answers": 16, 
+    "time": "2008-10-27 14:57:22Z", 
+    "views": 40391, 
+    "tags": [
+      "python", 
+      "list", 
+      "nested-lists", 
+      "mutable"
+    ], 
+    "author": "Charles Anderson"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to fix 'android.os.NetworkOnMainThreadException'?", 
+    "votes": 2469, 
+    "answers": 60, 
+    "time": "2011-06-14 12:02:00Z", 
+    "views": 1265593, 
+    "tags": [
+      "java", 
+      "android", 
+      "android-networking", 
+      "networkonmainthread"
+    ], 
+    "author": "bejoy george"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Undefined, unspecified and implementation-defined behavior", 
+    "votes": 550, 
+    "answers": 8, 
+    "time": "2010-03-07 21:10:30Z", 
+    "views": 59469, 
+    "tags": [
+      "c++", 
+      "c", 
+      "undefined-behavior", 
+      "unspecified-behavior", 
+      "implementation-defined-behavior"
+    ], 
+    "author": "Zolomon"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "commandButton/commandLink/ajax action/listener method not invoked or input value not set/updated", 
+    "votes": 352, 
+    "answers": 12, 
+    "time": "2010-01-22 16:18:46Z", 
+    "views": 210220, 
+    "tags": [
+      "jsf", 
+      "jsf-2", 
+      "action", 
+      "commandbutton", 
+      "commandlink"
+    ], 
+    "author": "Muhammad Hewedy"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Reference: What is variable scope, which variables are accessible from where and what are \u201cundefined variable\u201d errors?", 
+    "votes": 168, 
+    "answers": 3, 
+    "time": "2013-06-06 10:20:35Z", 
+    "views": 50364, 
+    "tags": [
+      "php", 
+      "scope"
+    ], 
+    "author": "deceze"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I read inputs as numbers?", 
+    "votes": 261, 
+    "answers": 10, 
+    "time": "2013-12-08 03:08:15Z", 
+    "views": 910207, 
+    "tags": [
+      "python", 
+      "python-3.x", 
+      "python-2.7", 
+      "input", 
+      "int"
+    ], 
+    "author": null
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why does my JavaScript code receive a \u201cNo 'Access-Control-Allow-Origin' header is present on the requested resource\u201d error, while Postman does not?", 
+    "votes": 2638, 
+    "answers": 10, 
+    "time": "2013-11-17 19:29:06Z", 
+    "views": 4558822, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "cors", 
+      "same-origin-policy", 
+      "flask-restless"
+    ], 
+    "author": "Mr Jedi"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do you split a list into evenly sized chunks?", 
+    "votes": 2420, 
+    "answers": 64, 
+    "time": "2008-11-23 12:15:52Z", 
+    "views": 1059682, 
+    "tags": [
+      "python", 
+      "list", 
+      "split", 
+      "chunks"
+    ], 
+    "author": "jespern"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the most efficient way to deep clone an object in JavaScript?", 
+    "votes": 5177, 
+    "answers": 67, 
+    "time": null, 
+    "views": 2138674, 
+    "tags": [
+      "javascript", 
+      "object", 
+      "clone"
+    ], 
+    "author": "jschrab"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is using \u201cfor\u2026in\u201d for array iteration a bad idea?", 
+    "votes": 1875, 
+    "answers": 27, 
+    "time": "2009-02-01 09:46:38Z", 
+    "views": 863345, 
+    "tags": [
+      "javascript", 
+      "arrays", 
+      "loops", 
+      "for-loop", 
+      "iteration"
+    ], 
+    "author": "lYriCAlsSH"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Error in finding last used cell in Excel with VBA", 
+    "votes": 183, 
+    "answers": 13, 
+    "time": "2012-06-23 12:20:51Z", 
+    "views": 134934, 
+    "tags": [
+      "excel", 
+      "vba", 
+      "excel-formula"
+    ], 
+    "author": "james"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What does it mean to \u201cprogram to an interface\u201d?", 
+    "votes": 829, 
+    "answers": 32, 
+    "time": "2008-12-21 00:48:59Z", 
+    "views": 181264, 
+    "tags": [
+      "language-agnostic", 
+      "oop", 
+      "interface"
+    ], 
+    "author": "Damien"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I pass variables and data from PHP to JavaScript?", 
+    "votes": 682, 
+    "answers": 19, 
+    "time": "2014-05-19 14:37:56Z", 
+    "views": 808684, 
+    "tags": [
+      "javascript", 
+      "php"
+    ], 
+    "author": "Madara's Ghost"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Which equals operator (== vs ===) should be used in JavaScript comparisons?", 
+    "votes": 5662, 
+    "answers": 49, 
+    "time": "2008-12-11 14:19:49Z", 
+    "views": 1855955, 
+    "tags": [
+      "javascript", 
+      "operators", 
+      "equality", 
+      "equality-operator", 
+      "identity-operator"
+    ], 
+    "author": "bcasp"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Providing white space in a Swing GUI", 
+    "votes": 164, 
+    "answers": 6, 
+    "time": "2013-07-26 06:50:12Z", 
+    "views": 46014, 
+    "tags": [
+      "java", 
+      "swing", 
+      "whitespace", 
+      "layout-manager"
+    ], 
+    "author": "Andrew Thompson"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "var functionName = function() {} vs function functionName() {}", 
+    "votes": 7054, 
+    "answers": 39, 
+    "time": "2008-12-03 11:31:07Z", 
+    "views": 1058936, 
+    "tags": [
+      "javascript", 
+      "function", 
+      "syntax", 
+      "idioms"
+    ], 
+    "author": "Richard Garside"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What's the simplest way to print a Java array?", 
+    "votes": 2019, 
+    "answers": 32, 
+    "time": "2009-01-03 20:39:39Z", 
+    "views": 2422176, 
+    "tags": [
+      "java", 
+      "arrays", 
+      "printing"
+    ], 
+    "author": "Alex Spurling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I return pivot table output in MySQL?", 
+    "votes": 324, 
+    "answers": 9, 
+    "time": "2011-10-06 13:20:14Z", 
+    "views": 362821, 
+    "tags": [
+      "mysql", 
+      "sql", 
+      "pivot"
+    ], 
+    "author": "peku"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Syntax error due to using a reserved word as a table or column name in MySQL", 
+    "votes": 48, 
+    "answers": 1, 
+    "time": null, 
+    "views": 151326, 
+    "tags": [
+      "mysql", 
+      "reserved-words"
+    ], 
+    "author": "Amal Murali"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Using async/await with a forEach loop", 
+    "votes": 1429, 
+    "answers": 21, 
+    "time": "2016-06-01 18:55:58Z", 
+    "views": 672838, 
+    "tags": [
+      "javascript", 
+      "node.js", 
+      "promise", 
+      "async-await", 
+      "ecmascript-2017"
+    ], 
+    "author": "Saad"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I sort arrays and data in PHP?", 
+    "votes": 299, 
+    "answers": 12, 
+    "time": "2013-06-28 11:53:56Z", 
+    "views": 70283, 
+    "tags": [
+      "php", 
+      "arrays", 
+      "sorting", 
+      "object", 
+      "spl"
+    ], 
+    "author": "deceze"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to horizontally center a <div>", 
+    "votes": 4496, 
+    "answers": 113, 
+    "time": null, 
+    "views": 4203277, 
+    "tags": [
+      "html", 
+      "css", 
+      "alignment", 
+      "centering"
+    ], 
+    "author": "Peter Mortensen"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Ways to circumvent the same-origin policy", 
+    "votes": 150, 
+    "answers": 11, 
+    "time": null, 
+    "views": 641450, 
+    "tags": [
+      "javascript", 
+      "ajax", 
+      "same-origin-policy"
+    ], 
+    "author": "David Titarenco"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I pass data between Activities in Android application?", 
+    "votes": 1390, 
+    "answers": 52, 
+    "time": "2010-01-19 06:06:36Z", 
+    "views": 1002027, 
+    "tags": [
+      "android", 
+      "android-intent", 
+      "android-activity"
+    ], 
+    "author": "UMAR-MOBITSOLUTIONS"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "\u201cThinking in AngularJS\u201d if I have a jQuery background? [closed]", 
+    "votes": 4512, 
+    "answers": 15, 
+    "time": "2013-02-21 04:09:56Z", 
+    "views": 839879, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "angularjs"
+    ], 
+    "author": "Mark Rajcok"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I profile C++ code running on Linux?", 
+    "votes": 1898, 
+    "answers": 19, 
+    "time": "2008-12-17 20:29:24Z", 
+    "views": 554322, 
+    "tags": [
+      "c++", 
+      "linux", 
+      "profiling"
+    ], 
+    "author": "Gabriel Isenberg"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Flexbox: center horizontally and vertically", 
+    "votes": 738, 
+    "answers": 13, 
+    "time": "2013-09-26 11:22:41Z", 
+    "views": 1130084, 
+    "tags": [
+      "html", 
+      "css", 
+      "flexbox"
+    ], 
+    "author": "bsr"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why don't flex items shrink past content size?", 
+    "votes": 360, 
+    "answers": 2, 
+    "time": "2016-03-27 12:08:53Z", 
+    "views": 72966, 
+    "tags": [
+      "html", 
+      "css", 
+      "flexbox"
+    ], 
+    "author": "tomas657"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I pass a variable by reference?", 
+    "votes": 2763, 
+    "answers": 27, 
+    "time": "2009-06-12 10:23:51Z", 
+    "views": 1460347, 
+    "tags": [
+      "python", 
+      "reference", 
+      "parameter-passing", 
+      "pass-by-reference"
+    ], 
+    "author": "David Sykes"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is a stack trace, and how can I use it to debug my application errors?", 
+    "votes": 677, 
+    "answers": 7, 
+    "time": "2010-10-21 14:52:24Z", 
+    "views": 448717, 
+    "tags": [
+      "java", 
+      "debugging", 
+      "stack-trace"
+    ], 
+    "author": "Rob Hruska"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I convert an existing callback API to promises?", 
+    "votes": 748, 
+    "answers": 20, 
+    "time": "2014-03-19 22:47:26Z", 
+    "views": 234241, 
+    "tags": [
+      "javascript", 
+      "node.js", 
+      "callback", 
+      "promise", 
+      "bluebird"
+    ], 
+    "author": "Benjamin Gruenbaum"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I print my Java object without getting \u201cSomeType@2f92e0f4\u201d?", 
+    "votes": 324, 
+    "answers": 10, 
+    "time": "2015-03-19 08:59:18Z", 
+    "views": 357790, 
+    "tags": [
+      "java", 
+      "string", 
+      "object", 
+      "tostring"
+    ], 
+    "author": "Duncan Jones"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "My regex is matching too much. How do I make it stop? [duplicate]", 
+    "votes": 96, 
+    "answers": 5, 
+    "time": "2008-08-22 14:10:40Z", 
+    "views": 48246, 
+    "tags": [
+      "regex"
+    ], 
+    "author": "Mark Biek"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is an IndexOutOfRangeException / ArgumentOutOfRangeException and how do I fix it?", 
+    "votes": 197, 
+    "answers": 4, 
+    "time": "2014-01-06 00:19:20Z", 
+    "views": 192441, 
+    "tags": [
+      "c#", 
+      ".net", 
+      "indexoutofrangeexception"
+    ], 
+    "author": "Adriano Repetti"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is the gets function so dangerous that it should not be used?", 
+    "votes": 243, 
+    "answers": 11, 
+    "time": "2009-11-07 18:55:07Z", 
+    "views": 165789, 
+    "tags": [
+      "c", 
+      "fgets", 
+      "buffer-overflow", 
+      "gets"
+    ], 
+    "author": "vinit dhatrak"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why does Date.parse give incorrect results?", 
+    "votes": 351, 
+    "answers": 11, 
+    "time": "2010-04-06 18:35:53Z", 
+    "views": 454159, 
+    "tags": [
+      "javascript", 
+      "date"
+    ], 
+    "author": "user121196"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "JavaScript property access: dot notation vs. brackets?", 
+    "votes": 418, 
+    "answers": 13, 
+    "time": "2011-02-11 11:21:46Z", 
+    "views": 152771, 
+    "tags": [
+      "javascript", 
+      "syntax", 
+      "object-literal"
+    ], 
+    "author": "Mark Renouf"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What should main() return in C and C++?", 
+    "votes": 729, 
+    "answers": 18, 
+    "time": "2008-10-15 12:13:48Z", 
+    "views": 355961, 
+    "tags": [
+      "c++", 
+      "c", 
+      "return-value", 
+      "main", 
+      "return-type"
+    ], 
+    "author": "Joel"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I upload files asynchronously?", 
+    "votes": 2981, 
+    "answers": 34, 
+    "time": "2008-10-03 10:22:17Z", 
+    "views": 1372722, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "ajax", 
+      "asynchronous", 
+      "xmlhttprequest"
+    ], 
+    "author": "Sergio del Amo"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why are these numbers not equal?", 
+    "votes": 278, 
+    "answers": 6, 
+    "time": "2012-02-29 23:46:46Z", 
+    "views": 47206, 
+    "tags": [
+      "r", 
+      "floating-point", 
+      "floating-accuracy", 
+      "r-faq"
+    ], 
+    "author": "dplanet"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I iterate over the words of a string?", 
+    "votes": 3071, 
+    "answers": 79, 
+    "time": null, 
+    "views": 2220279, 
+    "tags": [
+      "c++", 
+      "string", 
+      "split"
+    ], 
+    "author": "Ashwin Nanjappa"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is JavaScript a pass-by-reference or pass-by-value language?", 
+    "votes": 1469, 
+    "answers": 32, 
+    "time": "2009-02-05 21:23:56Z", 
+    "views": 379585, 
+    "tags": [
+      "javascript", 
+      "pass-by-reference", 
+      "pass-by-value"
+    ], 
+    "author": "Danail Nachev"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is my Spring @Autowired field null?", 
+    "votes": 637, 
+    "answers": 21, 
+    "time": "2013-11-11 00:05:03Z", 
+    "views": 502071, 
+    "tags": [
+      "java", 
+      "spring", 
+      "null", 
+      "nullpointerexception", 
+      "autowired"
+    ], 
+    "author": "chrylis -cautiouslyoptimistic-"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is List<Dog> a subclass of List<Animal>? Why are Java generics not implicitly polymorphic?", 
+    "votes": 804, 
+    "answers": 19, 
+    "time": "2010-04-30 14:39:39Z", 
+    "views": 113369, 
+    "tags": [
+      "java", 
+      "generics", 
+      "inheritance", 
+      "polymorphism"
+    ], 
+    "author": "froadie"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Reshaping data.frame from wide to long format", 
+    "votes": 173, 
+    "answers": 9, 
+    "time": "2010-02-02 15:36:12Z", 
+    "views": 133803, 
+    "tags": [
+      "r", 
+      "dataframe", 
+      "reshape", 
+      "r-faq"
+    ], 
+    "author": "mropa"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to format a JavaScript date", 
+    "votes": 2474, 
+    "answers": 58, 
+    "time": "2010-08-23 23:28:26Z", 
+    "views": 4212906, 
+    "tags": [
+      "javascript", 
+      "date", 
+      "date-formatting"
+    ], 
+    "author": "leora"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Simulating group_concat MySQL function in Microsoft SQL Server 2005?", 
+    "votes": 349, 
+    "answers": 11, 
+    "time": "2009-01-16 18:14:52Z", 
+    "views": 176839, 
+    "tags": [
+      "sql", 
+      "sql-server", 
+      "sql-server-2005", 
+      "string-aggregation"
+    ], 
+    "author": "DanM"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the strict aliasing rule?", 
+    "votes": 830, 
+    "answers": 11, 
+    "time": "2008-09-19 01:30:27Z", 
+    "views": 217371, 
+    "tags": [
+      "c", 
+      "undefined-behavior", 
+      "strict-aliasing", 
+      "type-punning"
+    ], 
+    "author": "Benoit"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "The Definitive C Book Guide and List", 
+    "votes": 400, 
+    "answers": 1, 
+    "time": null, 
+    "views": 458055, 
+    "tags": [
+      "c"
+    ], 
+    "author": "lillq"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to upload files to server using JSP/Servlet?", 
+    "votes": 691, 
+    "answers": 14, 
+    "time": "2010-03-11 04:07:32Z", 
+    "views": 580269, 
+    "tags": [
+      "java", 
+      "jsp", 
+      "jakarta-ee", 
+      "servlets", 
+      "file-upload"
+    ], 
+    "author": "Thang Pham"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is there a \u201cprevious sibling\u201d selector?", 
+    "votes": 1447, 
+    "answers": 20, 
+    "time": "2009-11-30 04:06:36Z", 
+    "views": 747195, 
+    "tags": [
+      "css", 
+      "css-selectors"
+    ], 
+    "author": "Jourkey"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "When is SQLiteOpenHelper onCreate() / onUpgrade() run?", 
+    "votes": 302, 
+    "answers": 15, 
+    "time": null, 
+    "views": 122314, 
+    "tags": [
+      "android", 
+      "sqlite", 
+      "android-sqlite", 
+      "sqlexception", 
+      "sqliteopenhelper"
+    ], 
+    "author": "laalto"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "XMLHttpRequest cannot load XXX No 'Access-Control-Allow-Origin' header", 
+    "votes": 120, 
+    "answers": 10, 
+    "time": "2016-02-22 12:19:25Z", 
+    "views": 170863, 
+    "tags": [
+      "javascript", 
+      "cors", 
+      "same-origin-policy"
+    ], 
+    "author": "Peter David Carter"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What does ** (double star/asterisk) and * (star/asterisk) do for parameters?", 
+    "votes": 2524, 
+    "answers": 22, 
+    "time": "2008-08-31 15:04:35Z", 
+    "views": 797268, 
+    "tags": [
+      "python", 
+      "syntax", 
+      "parameter-passing", 
+      "variadic-functions", 
+      "argument-unpacking"
+    ], 
+    "author": "Todd"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Retrieve only the queried element in an object array in MongoDB collection", 
+    "votes": 397, 
+    "answers": 14, 
+    "time": "2010-10-21 07:31:16Z", 
+    "views": 318669, 
+    "tags": [
+      "mongodb", 
+      "mongodb-query", 
+      "aggregation-framework", 
+      "projection"
+    ], 
+    "author": "Sebtm"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "My PDO Statement doesn't work", 
+    "votes": 41, 
+    "answers": 1, 
+    "time": "2015-09-18 09:20:28Z", 
+    "views": 12638, 
+    "tags": [
+      "php", 
+      "mysql", 
+      "pdo"
+    ], 
+    "author": "Rifthy"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is array to pointer decay?", 
+    "votes": 401, 
+    "answers": 9, 
+    "time": "2009-09-22 17:24:43Z", 
+    "views": 62394, 
+    "tags": [
+      "c++", 
+      "c", 
+      "arrays", 
+      "pointers"
+    ], 
+    "author": "Vamsi"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the copy-and-swap idiom?", 
+    "votes": 2087, 
+    "answers": 5, 
+    "time": "2010-07-19 08:42:09Z", 
+    "views": 375507, 
+    "tags": [
+      "c++", 
+      "copy-constructor", 
+      "assignment-operator", 
+      "c++-faq", 
+      "copy-and-swap"
+    ], 
+    "author": "GManNickG"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What are valid values for the id attribute in HTML?", 
+    "votes": 2073, 
+    "answers": 23, 
+    "time": "2008-09-16 09:08:52Z", 
+    "views": 463146, 
+    "tags": [
+      "html"
+    ], 
+    "author": "Mr Shark"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Servlet returns \u201cHTTP Status 404 The requested resource (/servlet) is not available\u201d", 
+    "votes": 100, 
+    "answers": 16, 
+    "time": "2012-07-31 00:02:45Z", 
+    "views": 130719, 
+    "tags": [
+      "html", 
+      "forms", 
+      "jsp", 
+      "servlets", 
+      "http-status-code-404"
+    ], 
+    "author": "pongahead"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Where can I find documentation on formatting a date in JavaScript?", 
+    "votes": 1425, 
+    "answers": 35, 
+    "time": null, 
+    "views": 1463887, 
+    "tags": [
+      "javascript", 
+      "date"
+    ], 
+    "author": "Naga Kiran"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "When to wrap quotes around a shell variable?", 
+    "votes": 202, 
+    "answers": 5, 
+    "time": "2012-04-08 23:02:08Z", 
+    "views": 71481, 
+    "tags": [
+      "linux", 
+      "bash", 
+      "shell", 
+      "unix", 
+      "quotes"
+    ], 
+    "author": "Cristian"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "In CSS Flexbox, why are there no \u201cjustify-items\u201d and \u201cjustify-self\u201d properties?", 
+    "votes": 758, 
+    "answers": 6, 
+    "time": "2015-09-13 15:30:27Z", 
+    "views": 214274, 
+    "tags": [
+      "css", 
+      "flexbox", 
+      "language-lawyer", 
+      "w3c"
+    ], 
+    "author": "Michael Benjamin"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Select first row in each GROUP BY group?", 
+    "votes": 1452, 
+    "answers": 17, 
+    "time": "2010-09-27 01:23:22Z", 
+    "views": 1163311, 
+    "tags": [
+      "sql", 
+      "sqlite", 
+      "postgresql", 
+      "group-by", 
+      "greatest-n-per-group"
+    ], 
+    "author": "David Wolever"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Trouble with UTF-8 characters; what I see is not what I stored", 
+    "votes": 76, 
+    "answers": 5, 
+    "time": "2016-07-14 00:04:19Z", 
+    "views": 51972, 
+    "tags": [
+      "mysql", 
+      "unicode", 
+      "utf-8", 
+      "character-encoding", 
+      "mariadb"
+    ], 
+    "author": "Rick James"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is PECS (Producer Extends Consumer Super)?", 
+    "votes": 762, 
+    "answers": 15, 
+    "time": "2010-04-27 17:16:40Z", 
+    "views": 112805, 
+    "tags": [
+      "java", 
+      "generics", 
+      "super", 
+      "bounded-wildcard", 
+      "pecs"
+    ], 
+    "author": "peakit"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to randomize (shuffle) a JavaScript array?", 
+    "votes": 1380, 
+    "answers": 58, 
+    "time": "2010-03-15 22:37:11Z", 
+    "views": 838816, 
+    "tags": [
+      "javascript", 
+      "arrays", 
+      "random", 
+      "shuffle"
+    ], 
+    "author": "Click Upvote"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How does Access-Control-Allow-Origin header work?", 
+    "votes": 1231, 
+    "answers": 16, 
+    "time": "2012-05-17 13:23:54Z", 
+    "views": 1715380, 
+    "tags": [
+      "javascript", 
+      "cross-domain", 
+      "cors"
+    ], 
+    "author": "mark"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Self-references in object literals / initializers", 
+    "votes": 754, 
+    "answers": 24, 
+    "time": "2011-01-06 14:53:53Z", 
+    "views": 147918, 
+    "tags": [
+      "javascript", 
+      "object-literal"
+    ], 
+    "author": "kpozin"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I redirect to another webpage?", 
+    "votes": 7717, 
+    "answers": 58, 
+    "time": "2009-02-02 12:54:16Z", 
+    "views": 6535959, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "redirect"
+    ], 
+    "author": "venkatachalam"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": ".prop() vs .attr()", 
+    "votes": 2347, 
+    "answers": 18, 
+    "time": "2011-05-03 19:33:28Z", 
+    "views": 631749, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "dom", 
+      "attr", 
+      "prop"
+    ], 
+    "author": "Naftali aka Neal"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Short description of the scoping rules?", 
+    "votes": 482, 
+    "answers": 9, 
+    "time": "2008-11-15 01:48:37Z", 
+    "views": 244806, 
+    "tags": [
+      "python", 
+      "scope", 
+      "dynamic-languages"
+    ], 
+    "author": "Charles Merriam"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "scanf() leaves the new line char in the buffer", 
+    "votes": 90, 
+    "answers": 4, 
+    "time": "2011-03-09 02:56:02Z", 
+    "views": 83956, 
+    "tags": [
+      "c", 
+      "scanf"
+    ], 
+    "author": "ipkiss"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to sum a variable by group", 
+    "votes": 393, 
+    "answers": 16, 
+    "time": "2009-11-02 09:01:28Z", 
+    "views": 648113, 
+    "tags": [
+      "r", 
+      "dataframe", 
+      "aggregate", 
+      "r-faq"
+    ], 
+    "author": "user5243421"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why does std::getline() skip input after a formatted extraction?", 
+    "votes": 115, 
+    "answers": 3, 
+    "time": "2014-02-05 02:01:25Z", 
+    "views": 20724, 
+    "tags": [
+      "c++", 
+      "input", 
+      "iostream", 
+      "istream", 
+      "c++-faq"
+    ], 
+    "author": "0x499602D2"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Prototypical inheritance - writing up [duplicate]", 
+    "votes": 134, 
+    "answers": 2, 
+    "time": "2013-04-17 14:55:16Z", 
+    "views": 15512, 
+    "tags": [
+      "javascript", 
+      "inheritance", 
+      "prototype"
+    ], 
+    "author": "frrlod"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Using global variables in a function", 
+    "votes": 3263, 
+    "answers": 20, 
+    "time": "2009-01-08 05:45:02Z", 
+    "views": 3296850, 
+    "tags": [
+      "python", 
+      "global-variables", 
+      "scope"
+    ], 
+    "author": "user46646"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to fix java.lang.UnsupportedClassVersionError: Unsupported major.minor version", 
+    "votes": 1596, 
+    "answers": 51, 
+    "time": "2012-04-30 11:28:24Z", 
+    "views": 1920420, 
+    "tags": [
+      "java", 
+      "jvm", 
+      "incompatibility", 
+      "unsupported-class-version"
+    ], 
+    "author": "ERJAN"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Does JavaScript guarantee object property order?", 
+    "votes": 691, 
+    "answers": 12, 
+    "time": "2011-04-02 20:54:12Z", 
+    "views": 251242, 
+    "tags": [
+      "javascript", 
+      "object"
+    ], 
+    "author": "mellowsoon"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I generate random integers within a specific range in Java?", 
+    "votes": 3629, 
+    "answers": 67, 
+    "time": "2008-12-12 18:20:57Z", 
+    "views": 4248422, 
+    "tags": [
+      "java", 
+      "random", 
+      "integer"
+    ], 
+    "author": "user42155"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Reference: mod_rewrite, URL rewriting and \u201cpretty links\u201d explained", 
+    "votes": 145, 
+    "answers": 4, 
+    "time": "2013-12-13 10:07:37Z", 
+    "views": 34025, 
+    "tags": [
+      "apache", 
+      ".htaccess", 
+      "mod-rewrite", 
+      "friendly-url"
+    ], 
+    "author": "deceze"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Random number generator only generating one random number", 
+    "votes": 779, 
+    "answers": 10, 
+    "time": "2009-04-20 12:11:24Z", 
+    "views": 198711, 
+    "tags": [
+      "c#", 
+      "random"
+    ], 
+    "author": "Ivan Prodanov"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "The 3 different equals", 
+    "votes": 150, 
+    "answers": 5, 
+    "time": "2010-01-14 10:38:57Z", 
+    "views": 46459, 
+    "tags": [
+      "php", 
+      "comparison", 
+      "operators"
+    ], 
+    "author": "Strawberry"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to use Servlets and Ajax?", 
+    "votes": 338, 
+    "answers": 7, 
+    "time": "2010-11-06 10:12:13Z", 
+    "views": 339853, 
+    "tags": [
+      "java", 
+      "ajax", 
+      "jsp", 
+      "servlets"
+    ], 
+    "author": "Amir Rachum"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to replace all occurrences of a string?", 
+    "votes": 4642, 
+    "answers": 70, 
+    "time": "2009-07-17 17:53:46Z", 
+    "views": 3611971, 
+    "tags": [
+      "javascript", 
+      "string", 
+      "replace"
+    ], 
+    "author": "Click Upvote"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to validate an email address in JavaScript", 
+    "votes": 4648, 
+    "answers": 96, 
+    "time": null, 
+    "views": 3290488, 
+    "tags": [
+      "javascript", 
+      "regex", 
+      "validation", 
+      "email", 
+      "email-validation"
+    ], 
+    "author": "pix0r"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Use a content script to access the page context variables and functions", 
+    "votes": 502, 
+    "answers": 6, 
+    "time": "2012-03-01 11:53:21Z", 
+    "views": 274916, 
+    "tags": [
+      "javascript", 
+      "google-chrome", 
+      "google-chrome-extension", 
+      "youtube-api", 
+      "content-script"
+    ], 
+    "author": "Andr\u00e9 Alves"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What does if __name__ == \u201c__main__\u201d: do?", 
+    "votes": 6487, 
+    "answers": 34, 
+    "time": "2009-01-07 04:11:00Z", 
+    "views": 3239668, 
+    "tags": [
+      "python", 
+      "namespaces", 
+      "main", 
+      "python-module", 
+      "idioms"
+    ], 
+    "author": "Devoted"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I parse JSON in Android? [duplicate]", 
+    "votes": 142, 
+    "answers": 3, 
+    "time": "2012-03-07 16:59:29Z", 
+    "views": 514997, 
+    "tags": [
+      "android", 
+      "json", 
+      "parsing"
+    ], 
+    "author": "iamlukeyb"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to split a string in Java", 
+    "votes": 1702, 
+    "answers": 35, 
+    "time": "2010-08-14 03:01:53Z", 
+    "views": 4042805, 
+    "tags": [
+      "java", 
+      "string", 
+      "split"
+    ], 
+    "author": "riyana"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to validate phone numbers using regex", 
+    "votes": 953, 
+    "answers": 42, 
+    "time": null, 
+    "views": 968299, 
+    "tags": [
+      "regex", 
+      "validation", 
+      "phone-number"
+    ], 
+    "author": "Nicholas Trandem"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to deal with SettingWithCopyWarning in Pandas", 
+    "votes": 751, 
+    "answers": 15, 
+    "time": "2013-12-17 03:48:02Z", 
+    "views": 849106, 
+    "tags": [
+      "python", 
+      "pandas", 
+      "dataframe", 
+      "chained-assignment"
+    ], 
+    "author": "bigbug"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Variables are not behaving as expected", 
+    "votes": 23, 
+    "answers": 1, 
+    "time": "2015-05-17 02:35:49Z", 
+    "views": 5946, 
+    "tags": [
+      "windows", 
+      "batch-file", 
+      "cmd", 
+      "environment-variables", 
+      "delayedvariableexpansion"
+    ], 
+    "author": "Eric Marcinowski"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What issues should be considered when overriding equals and hashCode in Java?", 
+    "votes": 617, 
+    "answers": 11, 
+    "time": "2008-08-26 08:50:26Z", 
+    "views": 583397, 
+    "tags": [
+      "java", 
+      "overriding", 
+      "equals", 
+      "hashcode"
+    ], 
+    "author": "Matt Sheppard"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Sort array of objects by string property value", 
+    "votes": 2989, 
+    "answers": 47, 
+    "time": "2009-07-15 03:17:47Z", 
+    "views": 1711136, 
+    "tags": [
+      "javascript", 
+      "arrays", 
+      "sorting", 
+      "comparison"
+    ], 
+    "author": "Tyrone Slothrop"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Passing Parameters JavaFX FXML", 
+    "votes": 200, 
+    "answers": 10, 
+    "time": "2013-01-06 23:33:12Z", 
+    "views": 183964, 
+    "tags": [
+      "javafx", 
+      "parameters", 
+      "dependency-injection", 
+      "parameter-passing", 
+      "fxml"
+    ], 
+    "author": "Alvaro"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the (function() { } )() construct in JavaScript?", 
+    "votes": 829, 
+    "answers": 28, 
+    "time": "2011-11-22 14:19:11Z", 
+    "views": 305936, 
+    "tags": [
+      "javascript", 
+      "iife"
+    ], 
+    "author": "Exitos"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Resolve build errors due to circular dependency amongst classes", 
+    "votes": 374, 
+    "answers": 11, 
+    "time": "2009-03-09 10:57:28Z", 
+    "views": 215046, 
+    "tags": [
+      "c++", 
+      "compiler-errors", 
+      "circular-dependency", 
+      "c++-faq"
+    ], 
+    "author": "Autodidact"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the maximum length of a URL in different browsers?", 
+    "votes": 5020, 
+    "answers": 17, 
+    "time": "2009-01-06 16:14:30Z", 
+    "views": 1322840, 
+    "tags": [
+      "http", 
+      "url", 
+      "browser"
+    ], 
+    "author": "Sander Versluys"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What are copy elision and return value optimization?", 
+    "votes": 400, 
+    "answers": 5, 
+    "time": "2012-10-18 11:03:03Z", 
+    "views": 83576, 
+    "tags": [
+      "c++", 
+      "optimization", 
+      "c++-faq", 
+      "return-value-optimization", 
+      "copy-elision"
+    ], 
+    "author": "Luchian Grigore"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to call an external command?", 
+    "votes": 5105, 
+    "answers": 62, 
+    "time": "2008-09-18 01:35:30Z", 
+    "views": 3553016, 
+    "tags": [
+      "python", 
+      "shell", 
+      "terminal", 
+      "subprocess", 
+      "command"
+    ], 
+    "author": "freshWoWer"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Retrieving the last record in each group - MySQL", 
+    "votes": 1034, 
+    "answers": 29, 
+    "time": "2009-08-21 17:04:04Z", 
+    "views": 719943, 
+    "tags": [
+      "sql", 
+      "mysql", 
+      "group-by", 
+      "greatest-n-per-group"
+    ], 
+    "author": "Vijay Dev"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is a NullPointerException, and how do I fix it?", 
+    "votes": 209, 
+    "answers": 12, 
+    "time": null, 
+    "views": 2984824, 
+    "tags": [
+      "java", 
+      "nullpointerexception"
+    ], 
+    "author": "\r\n        Ziggy\r\n        "
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to make a great R reproducible example", 
+    "votes": 2470, 
+    "answers": 23, 
+    "time": null, 
+    "views": 330133, 
+    "tags": [
+      "r", 
+      "r-faq"
+    ], 
+    "author": "Hack-R"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I return the response from an asynchronous call?", 
+    "votes": 5763, 
+    "answers": 42, 
+    "time": "2013-01-08 17:06:14Z", 
+    "views": 1582519, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "ajax", 
+      "asynchronous"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I prevent SQL injection in PHP?", 
+    "votes": 2773, 
+    "answers": 28, 
+    "time": null, 
+    "views": 1825016, 
+    "tags": [
+      "php", 
+      "mysql", 
+      "sql", 
+      "security", 
+      "sql-injection"
+    ], 
+    "author": "Andrew G. Johnson"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "RegEx match open tags except XHTML self-contained tags", 
+    "votes": 1607, 
+    "answers": 36, 
+    "time": null, 
+    "views": 3001005, 
+    "tags": [
+      "html", 
+      "regex", 
+      "xhtml"
+    ], 
+    "author": "Jeff"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is a NullReferenceException, and how do I fix it?", 
+    "votes": 1874, 
+    "answers": 28, 
+    "time": null, 
+    "views": 1480212, 
+    "tags": [
+      "c#", 
+      ".net", 
+      "vb.net", 
+      "null", 
+      "nullreferenceexception"
+    ], 
+    "author": "John Saunders"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I compare strings in Java?", 
+    "votes": 724, 
+    "answers": 23, 
+    "time": null, 
+    "views": 4006483, 
+    "tags": [
+      "java", 
+      "string", 
+      "equality"
+    ], 
+    "author": "\r\n        Nathan H\r\n        "
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "\u201cNotice: Undefined variable\u201d, \u201cNotice: Undefined index\u201d, and \u201cNotice: Undefined offset\u201d using PHP", 
+    "votes": 1237, 
+    "answers": 28, 
+    "time": null, 
+    "views": 1841412, 
+    "tags": [
+      "php", 
+      "arrays", 
+      "variables", 
+      "warnings", 
+      "undefined-index"
+    ], 
+    "author": "Pekka \uc6c3"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is floating point math broken?", 
+    "votes": 3161, 
+    "answers": 31, 
+    "time": "2009-02-25 21:39:02Z", 
+    "views": 344603, 
+    "tags": [
+      "math", 
+      "language-agnostic", 
+      "floating-point", 
+      "floating-accuracy"
+    ], 
+    "author": "Cato Johnston"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "The Definitive C++ Book Guide and List", 
+    "votes": 4238, 
+    "answers": 1, 
+    "time": null, 
+    "views": 2487956, 
+    "tags": [
+      "c++", 
+      "c++-faq"
+    ], 
+    "author": "sbi"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why shouldn't I use mysql_* functions in PHP?", 
+    "votes": 2544, 
+    "answers": 12, 
+    "time": "2012-10-12 13:18:39Z", 
+    "views": 228866, 
+    "tags": [
+      "php", 
+      "mysql"
+    ], 
+    "author": "Madara's Ghost"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is an undefined reference/unresolved external symbol error and how do I fix it?", 
+    "votes": 1571, 
+    "answers": 34, 
+    "time": "2012-09-24 22:27:40Z", 
+    "views": 619737, 
+    "tags": [
+      "c++", 
+      "linker-errors", 
+      "undefined-reference", 
+      "c++-faq", 
+      "unresolved-external"
+    ], 
+    "author": "Luchian Grigore"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "PHP parse/syntax errors; and how to solve them", 
+    "votes": 680, 
+    "answers": 18, 
+    "time": null, 
+    "views": 588051, 
+    "tags": [
+      "php", 
+      "parsing", 
+      "debugging", 
+      "syntax-error"
+    ], 
+    "author": "mario"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Event binding on dynamically created elements?", 
+    "votes": 1677, 
+    "answers": 23, 
+    "time": "2008-10-14 23:25:19Z", 
+    "views": 893326, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "events", 
+      "unobtrusive-javascript"
+    ], 
+    "author": "Eli"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "JavaScript closure inside loops \u2013 simple practical example", 
+    "votes": 2918, 
+    "answers": 44, 
+    "time": "2009-04-15 06:06:20Z", 
+    "views": 397295, 
+    "tags": [
+      "javascript", 
+      "loops", 
+      "closures"
+    ], 
+    "author": "nickf"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Do I cast the result of malloc?", 
+    "votes": 2489, 
+    "answers": 29, 
+    "time": "2009-03-03 10:13:02Z", 
+    "views": 253168, 
+    "tags": [
+      "c", 
+      "malloc", 
+      "casting"
+    ], 
+    "author": "Patrick McDonald"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to access the correct `this` inside a callback?", 
+    "votes": 1532, 
+    "answers": 12, 
+    "time": "2013-11-29 06:13:11Z", 
+    "views": 449555, 
+    "tags": [
+      "javascript", 
+      "callback", 
+      "this"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Reference - What does this regex mean?", 
+    "votes": 52, 
+    "answers": 1, 
+    "time": null, 
+    "views": 134022, 
+    "tags": [
+      "regex"
+    ], 
+    "author": "HamZa"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to avoid using Select in Excel VBA", 
+    "votes": 552, 
+    "answers": 16, 
+    "time": "2012-05-23 05:57:58Z", 
+    "views": 302079, 
+    "tags": [
+      "excel", 
+      "vba"
+    ], 
+    "author": "BiGXERO"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Reference - What does this error mean in PHP?", 
+    "votes": 1169, 
+    "answers": 36, 
+    "time": null, 
+    "views": 219371, 
+    "tags": [
+      "php", 
+      "debugging", 
+      "error-handling", 
+      "warnings", 
+      "custom-error-handling"
+    ], 
+    "author": "miken32"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "PHP mail function doesn't complete sending of e-mail", 
+    "votes": 494, 
+    "answers": 26, 
+    "time": "2014-07-09 02:18:55Z", 
+    "views": 385332, 
+    "tags": [
+      "php", 
+      "html", 
+      "email"
+    ], 
+    "author": "user3818620"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is my variable unaltered after I modify it inside of a function? - Asynchronous code reference", 
+    "votes": 771, 
+    "answers": 6, 
+    "time": "2014-05-14 23:55:16Z", 
+    "views": 217924, 
+    "tags": [
+      "javascript", 
+      "asynchronous"
+    ], 
+    "author": "Fabr\u00edcio Matt\u00e9"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to fix \u201cHeaders already sent\u201d error in PHP", 
+    "votes": 831, 
+    "answers": 11, 
+    "time": null, 
+    "views": 1523362, 
+    "tags": [
+      "php", 
+      "header"
+    ], 
+    "author": "Moses89"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "When to use single quotes, double quotes, and backticks in MySQL", 
+    "votes": 661, 
+    "answers": 13, 
+    "time": "2012-07-04 01:53:36Z", 
+    "views": 219057, 
+    "tags": [
+      "mysql", 
+      "sql", 
+      "quotes"
+    ], 
+    "author": "Nate"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "UTF-8 all the way through", 
+    "votes": 1228, 
+    "answers": 16, 
+    "time": "2008-11-10 21:04:56Z", 
+    "views": 163955, 
+    "tags": [
+      "php", 
+      "mysql", 
+      "linux", 
+      "apache", 
+      "utf-8"
+    ], 
+    "author": "mercutio"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is Java \u201cpass-by-reference\u201d or \u201cpass-by-value\u201d?", 
+    "votes": 6830, 
+    "answers": 83, 
+    "time": null, 
+    "views": 2076254, 
+    "tags": [
+      "java", 
+      "methods", 
+      "parameter-passing", 
+      "pass-by-reference", 
+      "pass-by-value"
+    ], 
+    "author": "user4315"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is \u201cusing namespace std;\u201d considered bad practice?", 
+    "votes": 2785, 
+    "answers": 39, 
+    "time": "2009-09-21 03:08:23Z", 
+    "views": 870976, 
+    "tags": [
+      "c++", 
+      "namespaces", 
+      "std", 
+      "using-directives", 
+      "c++-faq"
+    ], 
+    "author": "akbiggs"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do you parse and process HTML/XML in PHP?", 
+    "votes": 2164, 
+    "answers": 30, 
+    "time": null, 
+    "views": 429159, 
+    "tags": [
+      "php", 
+      "xml", 
+      "parsing", 
+      "xml-parsing", 
+      "html-parsing"
+    ], 
+    "author": "RobertPitt"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why can templates only be implemented in the header file?", 
+    "votes": 1875, 
+    "answers": 17, 
+    "time": "2009-01-30 10:06:50Z", 
+    "views": 542197, 
+    "tags": [
+      "c++", 
+      "templates", 
+      "c++-faq"
+    ], 
+    "author": "MainID"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why does jQuery or a DOM method such as getElementById not find the element?", 
+    "votes": 508, 
+    "answers": 9, 
+    "time": "2012-12-25 08:26:26Z", 
+    "views": 130598, 
+    "tags": [
+      "javascript", 
+      "jquery", 
+      "dom"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I access and process nested objects, arrays or JSON?", 
+    "votes": 924, 
+    "answers": 27, 
+    "time": "2012-08-12 13:02:12Z", 
+    "views": 758236, 
+    "tags": [
+      "javascript", 
+      "arrays", 
+      "object", 
+      "nested", 
+      "data-manipulation"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "mysqli_fetch_assoc() expects parameter / Call to a member function bind_param() errors. How to get the actual mysql error and fix it?", 
+    "votes": 118, 
+    "answers": 1, 
+    "time": "2014-03-26 13:27:38Z", 
+    "views": 33223, 
+    "tags": [
+      "php", 
+      "mysqli", 
+      "prepared-statement", 
+      "environment", 
+      "error-reporting"
+    ], 
+    "author": "siopaoman"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is iostream::eof inside a loop condition (i.e. `while (!stream.eof())`) considered wrong?", 
+    "votes": 614, 
+    "answers": 4, 
+    "time": "2011-04-09 12:49:36Z", 
+    "views": 68418, 
+    "tags": [
+      "c++", 
+      "iostream", 
+      "c++-faq"
+    ], 
+    "author": "MAK"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "SQL injection that gets around mysql_real_escape_string()", 
+    "votes": 680, 
+    "answers": 4, 
+    "time": "2011-04-21 07:56:11Z", 
+    "views": 251627, 
+    "tags": [
+      "php", 
+      "mysql", 
+      "sql", 
+      "security", 
+      "sql-injection"
+    ], 
+    "author": "Richard Knop"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "mysql_fetch_array()/mysql_fetch_assoc()/mysql_fetch_row()/mysql_num_rows etc\u2026 expects parameter 1 to be resource", 
+    "votes": 968, 
+    "answers": 31, 
+    "time": "2010-06-04 10:18:08Z", 
+    "views": 752965, 
+    "tags": [
+      "php", 
+      "mysql"
+    ], 
+    "author": "iamjonesy"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to make good reproducible pandas examples", 
+    "votes": 220, 
+    "answers": 5, 
+    "time": "2013-11-20 23:31:39Z", 
+    "views": 26408, 
+    "tags": [
+      "python", 
+      "pandas"
+    ], 
+    "author": "Marius"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the difference between client-side and server-side programming?", 
+    "votes": 517, 
+    "answers": 4, 
+    "time": "2012-12-12 13:03:00Z", 
+    "views": 43618, 
+    "tags": [
+      "javascript", 
+      "php", 
+      "client-side", 
+      "server-side"
+    ], 
+    "author": "deceze"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Scanner is skipping nextLine() after using next() or nextFoo()?", 
+    "votes": 741, 
+    "answers": 20, 
+    "time": "2012-10-27 16:37:01Z", 
+    "views": 557747, 
+    "tags": [
+      "java", 
+      "io", 
+      "java.util.scanner"
+    ], 
+    "author": "blekione"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to use ThreeTenABP in Android Project", 
+    "votes": 202, 
+    "answers": 3, 
+    "time": "2016-08-12 16:36:26Z", 
+    "views": 27004, 
+    "tags": [
+      "android", 
+      "datetime", 
+      "android-gradle-plugin", 
+      "threetenbp", 
+      "threetenabp"
+    ], 
+    "author": "kael"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to test multiple variables against a value?", 
+    "votes": 685, 
+    "answers": 25, 
+    "time": "2013-02-27 12:26:23Z", 
+    "views": 290567, 
+    "tags": [
+      "python", 
+      "if-statement", 
+      "comparison", 
+      "match", 
+      "boolean-logic"
+    ], 
+    "author": "user1877442"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What causes a java.lang.ArrayIndexOutOfBoundsException and how do I prevent it?", 
+    "votes": 312, 
+    "answers": 26, 
+    "time": "2011-04-05 15:54:03Z", 
+    "views": 686493, 
+    "tags": [
+      "java"
+    ], 
+    "author": "Aaron"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why is \u201cwhile ( !feof (file) )\u201d always wrong?", 
+    "votes": 592, 
+    "answers": 5, 
+    "time": "2011-03-25 11:42:33Z", 
+    "views": 233786, 
+    "tags": [
+      "c", 
+      "file", 
+      "while-loop", 
+      "eof", 
+      "feof"
+    ], 
+    "author": "William Pursell"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is The Rule of Three?", 
+    "votes": 2220, 
+    "answers": 8, 
+    "time": "2010-11-13 13:27:09Z", 
+    "views": 295372, 
+    "tags": [
+      "c++", 
+      "copy-constructor", 
+      "assignment-operator", 
+      "c++-faq", 
+      "rule-of-three"
+    ], 
+    "author": "fredoverflow"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Unfortunately MyApp has stopped. How can I solve this?", 
+    "votes": 813, 
+    "answers": 20, 
+    "time": "2014-04-28 23:55:14Z", 
+    "views": 466968, 
+    "tags": [
+      "java", 
+      "android", 
+      "debugging", 
+      "kotlin"
+    ], 
+    "author": "nhaarman"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How does the \u201cthis\u201d keyword work?", 
+    "votes": 1350, 
+    "answers": 22, 
+    "time": "2010-06-27 13:12:56Z", 
+    "views": 411871, 
+    "tags": [
+      "javascript", 
+      "this"
+    ], 
+    "author": "Maxim Gershkovich"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Asking the user for input until they give a valid response", 
+    "votes": 609, 
+    "answers": 21, 
+    "time": null, 
+    "views": 600580, 
+    "tags": [
+      "python", 
+      "validation", 
+      "loops", 
+      "python-3.x", 
+      "user-input"
+    ], 
+    "author": "Kevin"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do JavaScript closures work?", 
+    "votes": 7633, 
+    "answers": 86, 
+    "time": null, 
+    "views": 1480611, 
+    "tags": [
+      "javascript", 
+      "function", 
+      "variables", 
+      "scope", 
+      "closures"
+    ], 
+    "author": "Zaheer Ahmed"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Understanding slice notation", 
+    "votes": 3584, 
+    "answers": 33, 
+    "time": "2009-02-03 22:31:02Z", 
+    "views": 1946281, 
+    "tags": [
+      "python", 
+      "list", 
+      "slice", 
+      "iterable"
+    ], 
+    "author": "Simon"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "List of lists changes reflected across sublists unexpectedly", 
+    "votes": 707, 
+    "answers": 16, 
+    "time": "2008-10-27 14:57:22Z", 
+    "views": 40391, 
+    "tags": [
+      "python", 
+      "list", 
+      "nested-lists", 
+      "mutable"
+    ], 
+    "author": "Charles Anderson"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to fix 'android.os.NetworkOnMainThreadException'?", 
+    "votes": 2469, 
+    "answers": 60, 
+    "time": "2011-06-14 12:02:00Z", 
+    "views": 1265593, 
+    "tags": [
+      "java", 
+      "android", 
+      "android-networking", 
+      "networkonmainthread"
+    ], 
+    "author": "bejoy george"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I create variable variables?", 
+    "votes": 396, 
+    "answers": 14, 
+    "time": "2009-09-03 12:37:48Z", 
+    "views": 160782, 
+    "tags": [
+      "python", 
+      "variable-variables"
+    ], 
+    "author": null
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I get query string values in JavaScript?", 
+    "votes": 2696, 
+    "answers": 73, 
+    "time": null, 
+    "views": 3995955, 
+    "tags": [
+      "javascript", 
+      "url", 
+      "plugins", 
+      "query-string"
+    ], 
+    "author": "Ripounet"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "\u201cLeast Astonishment\u201d and the Mutable Default Argument", 
+    "votes": 2729, 
+    "answers": 31, 
+    "time": "2009-07-15 18:00:37Z", 
+    "views": 168205, 
+    "tags": [
+      "python", 
+      "language-design", 
+      "default-parameters", 
+      "least-astonishment"
+    ], 
+    "author": "Stefano Borini"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is there a CSS parent selector?", 
+    "votes": 3368, 
+    "answers": 31, 
+    "time": "2009-06-18 19:59:36Z", 
+    "views": 2225602, 
+    "tags": [
+      "javascript", 
+      "css", 
+      "css-selectors"
+    ], 
+    "author": "jcuenod"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to join (merge) data frames (inner, outer, left, right)", 
+    "votes": 1307, 
+    "answers": 13, 
+    "time": "2009-08-19 13:18:11Z", 
+    "views": 1299991, 
+    "tags": [
+      "r", 
+      "join", 
+      "merge", 
+      "dataframe", 
+      "r-faq"
+    ], 
+    "author": "Dan Goldstein"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the explicit promise construction antipattern and how do I avoid it?", 
+    "votes": 549, 
+    "answers": 2, 
+    "time": "2014-05-22 10:07:00Z", 
+    "views": 84396, 
+    "tags": [
+      "javascript", 
+      "promise", 
+      "q", 
+      "bluebird", 
+      "es6-promise"
+    ], 
+    "author": "Benjamin Gruenbaum"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "List changes unexpectedly after assignment. How do I clone or copy it to prevent this?", 
+    "votes": 2728, 
+    "answers": 21, 
+    "time": "2010-04-10 08:49:46Z", 
+    "views": 1799689, 
+    "tags": [
+      "python", 
+      "list", 
+      "copy", 
+      "clone"
+    ], 
+    "author": "aF."
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Dynamically access object property using variable", 
+    "votes": 778, 
+    "answers": 17, 
+    "time": "2010-11-22 11:23:32Z", 
+    "views": 415205, 
+    "tags": [
+      "javascript", 
+      "object", 
+      "properties"
+    ], 
+    "author": "RichW"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Can a local variable's memory be accessed outside its scope?", 
+    "votes": 1063, 
+    "answers": 20, 
+    "time": null, 
+    "views": 275561, 
+    "tags": [
+      "c++", 
+      "memory-management", 
+      "local-variables", 
+      "dangling-pointer"
+    ], 
+    "author": "unknown\r\n        "
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What are the basic rules and idioms for operator overloading?", 
+    "votes": 2206, 
+    "answers": 7, 
+    "time": "2010-12-12 12:44:56Z", 
+    "views": 917535, 
+    "tags": [
+      "c++", 
+      "operators", 
+      "operator-overloading", 
+      "c++-faq"
+    ], 
+    "author": "sbi"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "The Use of Multiple JFrames: Good or Bad Practice? [closed]", 
+    "votes": 539, 
+    "answers": 9, 
+    "time": "2012-03-04 11:53:40Z", 
+    "views": 126838, 
+    "tags": [
+      "java", 
+      "swing", 
+      "user-interface", 
+      "jframe"
+    ], 
+    "author": "Peddler"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Where and why do I have to put the \u201ctemplate\u201d and \u201ctypename\u201d keywords?", 
+    "votes": 1175, 
+    "answers": 6, 
+    "time": "2009-03-04 11:56:16Z", 
+    "views": 180820, 
+    "tags": [
+      "c++", 
+      "templates", 
+      "typename", 
+      "c++-faq", 
+      "dependent-name"
+    ], 
+    "author": "MSalters"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to pivot a dataframe?", 
+    "votes": 409, 
+    "answers": 2, 
+    "time": "2017-11-07 08:00:28Z", 
+    "views": 33483, 
+    "tags": [
+      "python", 
+      "pandas", 
+      "group-by", 
+      "pivot", 
+      "pandas-groupby"
+    ], 
+    "author": "piRSquared"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What do querySelectorAll and getElementsBy* methods return?", 
+    "votes": 159, 
+    "answers": 10, 
+    "time": "2012-05-21 23:17:15Z", 
+    "views": 83865, 
+    "tags": [
+      "javascript", 
+      "getelementsbyclassname", 
+      "dom-traversal"
+    ], 
+    "author": "dmo"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Official locator strategies for the webdriver", 
+    "votes": 24, 
+    "answers": 1, 
+    "time": "2018-01-21 16:31:24Z", 
+    "views": 13141, 
+    "tags": [
+      "javascript", 
+      "google-chrome", 
+      "selenium", 
+      "chromium", 
+      "chrome-web-driver"
+    ], 
+    "author": "Merc"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the scope of variables in JavaScript?", 
+    "votes": 2061, 
+    "answers": 26, 
+    "time": "2009-02-01 08:27:19Z", 
+    "views": 514427, 
+    "tags": [
+      "javascript", 
+      "function", 
+      "variables", 
+      "scope", 
+      "var"
+    ], 
+    "author": "lYriCAlsSH"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is a raw type and why shouldn't we use it?", 
+    "votes": 695, 
+    "answers": 15, 
+    "time": "2010-05-05 02:48:53Z", 
+    "views": 243874, 
+    "tags": [
+      "java", 
+      "generics", 
+      "raw-types"
+    ], 
+    "author": "polygenelubricants"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Is storing a delimited list in a database column really that bad?", 
+    "votes": 372, 
+    "answers": 10, 
+    "time": "2010-09-06 18:11:25Z", 
+    "views": 73430, 
+    "tags": [
+      "database", 
+      "database-design", 
+      "database-normalization"
+    ], 
+    "author": "Mad Scientist"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Pandas Merging 101", 
+    "votes": 473, 
+    "answers": 5, 
+    "time": "2018-12-06 06:41:15Z", 
+    "views": 122585, 
+    "tags": [
+      "python", 
+      "pandas", 
+      "join", 
+      "merge"
+    ], 
+    "author": "cs95"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I write a correct micro-benchmark in Java?", 
+    "votes": 890, 
+    "answers": 11, 
+    "time": "2009-02-02 17:39:41Z", 
+    "views": 118017, 
+    "tags": [
+      "java", 
+      "jvm", 
+      "benchmarking", 
+      "jvm-hotspot", 
+      "microbenchmark"
+    ], 
+    "author": "John Nilsson"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I extract data from JSON with PHP?", 
+    "votes": 231, 
+    "answers": 6, 
+    "time": "2015-03-27 19:38:46Z", 
+    "views": 312705, 
+    "tags": [
+      "php", 
+      "json"
+    ], 
+    "author": "user3942918"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to reshape data from long to wide format", 
+    "votes": 289, 
+    "answers": 12, 
+    "time": "2011-05-04 22:27:50Z", 
+    "views": 227857, 
+    "tags": [
+      "r", 
+      "reshape", 
+      "r-faq"
+    ], 
+    "author": "Steve"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What does a \u201cCannot find symbol\u201d or \u201cCannot resolve symbol\u201d error mean?", 
+    "votes": 425, 
+    "answers": 15, 
+    "time": "2014-09-07 01:12:08Z", 
+    "views": 1036676, 
+    "tags": [
+      "java", 
+      "compiler-errors", 
+      "cannot-find-symbol"
+    ], 
+    "author": "Stephen C"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What does \u201cFatal error: Unexpectedly found nil while unwrapping an Optional value\u201d mean?", 
+    "votes": 429, 
+    "answers": 11, 
+    "time": null, 
+    "views": 431090, 
+    "tags": [
+      "swift", 
+      "exception", 
+      "error-handling"
+    ], 
+    "author": "pkamb"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Can I mix MySQL APIs in PHP?", 
+    "votes": 110, 
+    "answers": 4, 
+    "time": "2013-07-05 23:48:36Z", 
+    "views": 14240, 
+    "tags": [
+      "php", 
+      "mysql", 
+      "pdo", 
+      "mysqli"
+    ], 
+    "author": "N3mo"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is a debugger and how can it help me diagnose problems?", 
+    "votes": 107, 
+    "answers": 2, 
+    "time": "2014-08-19 13:49:51Z", 
+    "views": 11595, 
+    "tags": [
+      "debugging", 
+      "language-agnostic"
+    ], 
+    "author": "Raedwald"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Passing Data between View Controllers", 
+    "votes": 1399, 
+    "answers": 46, 
+    "time": "2011-03-06 12:43:57Z", 
+    "views": 462062, 
+    "tags": [
+      "ios", 
+      "objective-c", 
+      "swift", 
+      "model-view-controller", 
+      "uiviewcontroller"
+    ], 
+    "author": "Matt Price"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "PHP code is not being executed, instead code shows on the page", 
+    "votes": 342, 
+    "answers": 28, 
+    "time": "2011-02-25 19:06:51Z", 
+    "views": 659154, 
+    "tags": [
+      "php", 
+      "apache"
+    ], 
+    "author": "Gui"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why are these constructs using pre and post-increment undefined behavior?", 
+    "votes": 836, 
+    "answers": 14, 
+    "time": "2009-06-04 09:17:52Z", 
+    "views": 79123, 
+    "tags": [
+      "c", 
+      "increment", 
+      "undefined-behavior", 
+      "operator-precedence", 
+      "sequence-points"
+    ], 
+    "author": "PiX"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I get useful error messages in PHP?", 
+    "votes": 602, 
+    "answers": 43, 
+    "time": "2009-05-10 09:48:12Z", 
+    "views": 610764, 
+    "tags": [
+      "php", 
+      "debugging", 
+      "error-handling"
+    ], 
+    "author": "Candidasa"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I remove the space between inline/inline-block elements?", 
+    "votes": 1119, 
+    "answers": 41, 
+    "time": "2011-02-22 12:41:14Z", 
+    "views": 313792, 
+    "tags": [
+      "html", 
+      "css"
+    ], 
+    "author": "\u0160ime Vidas"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is object slicing?", 
+    "votes": 769, 
+    "answers": 18, 
+    "time": "2008-11-08 11:10:13Z", 
+    "views": 191300, 
+    "tags": [
+      "c++", 
+      "inheritance", 
+      "c++-faq", 
+      "object-slicing"
+    ], 
+    "author": "Frankomania"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to add JTable in JPanel with null layout?", 
+    "votes": 240, 
+    "answers": 11, 
+    "time": "2011-04-11 12:35:34Z", 
+    "views": 44441, 
+    "tags": [
+      "java", 
+      "layout", 
+      "jtable", 
+      "layout-manager", 
+      "null-layout-manager"
+    ], 
+    "author": "Sagar"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Convert one date format into another in PHP", 
+    "votes": 341, 
+    "answers": 16, 
+    "time": "2010-01-30 12:58:56Z", 
+    "views": 511438, 
+    "tags": [
+      "php", 
+      "date", 
+      "datetime", 
+      "format", 
+      "date-conversion"
+    ], 
+    "author": "Tom"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Reference \u2014 What does this symbol mean in PHP?", 
+    "votes": 4625, 
+    "answers": 20, 
+    "time": null, 
+    "views": 696190, 
+    "tags": [
+      "php", 
+      "arguments", 
+      "logic", 
+      "operators", 
+      "symbols"
+    ], 
+    "author": "Gordon"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to parse JSON in Java", 
+    "votes": 1102, 
+    "answers": 34, 
+    "time": "2010-04-07 09:00:21Z", 
+    "views": 1765378, 
+    "tags": [
+      "java", 
+      "json", 
+      "parsing"
+    ], 
+    "author": "Muhammad Maqsoodur Rehman"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to validate an email address using a regular expression?", 
+    "votes": 3446, 
+    "answers": 76, 
+    "time": null, 
+    "views": 1393035, 
+    "tags": [
+      "regex", 
+      "validation", 
+      "email", 
+      "email-validation", 
+      "string-parsing"
+    ], 
+    "author": "acrosman"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How can I avoid Java code in JSP files, using JSP 2?", 
+    "votes": 1695, 
+    "answers": 31, 
+    "time": "2010-07-05 07:24:06Z", 
+    "views": 292632, 
+    "tags": [
+      "java", 
+      "jsp", 
+      "scriptlet"
+    ], 
+    "author": "chmoelders"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What are the rules about using an underscore in a C++ identifier?", 
+    "votes": 947, 
+    "answers": 5, 
+    "time": "2008-10-23 07:02:06Z", 
+    "views": 268159, 
+    "tags": [
+      "c++", 
+      "naming-conventions", 
+      "standards", 
+      "c++-faq"
+    ], 
+    "author": "Roger Lipscombe"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Why should I not #include <bits/stdc++.h>?", 
+    "votes": 303, 
+    "answers": 5, 
+    "time": "2015-08-04 17:57:15Z", 
+    "views": 34447, 
+    "tags": [
+      "c++", 
+      "portability", 
+      "turbo-c++", 
+      "c++-faq", 
+      "implementation-defined-behavior"
+    ], 
+    "author": "Lightness Races in Orbit"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Should I avoid the use of set(Preferred|Maximum|Minimum)Size methods in Java Swing?", 
+    "votes": 489, 
+    "answers": 9, 
+    "time": "2011-08-29 11:02:31Z", 
+    "views": 56681, 
+    "tags": [
+      "java", 
+      "swing", 
+      "layout-manager"
+    ], 
+    "author": "Heisenbug"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "What is the difference between single-quoted and double-quoted strings in PHP?", 
+    "votes": 822, 
+    "answers": 12, 
+    "time": "2010-08-10 05:12:56Z", 
+    "views": 387109, 
+    "tags": [
+      "php", 
+      "string", 
+      "syntax"
+    ], 
+    "author": "rob waminal"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How does the SQL injection from the \u201cBobby Tables\u201d XKCD comic work?", 
+    "votes": 1113, 
+    "answers": 13, 
+    "time": "2008-12-01 21:50:10Z", 
+    "views": 214594, 
+    "tags": [
+      "security", 
+      "validation", 
+      "sql-injection"
+    ], 
+    "author": "Blankman"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Are 'Arrow Functions' and 'Functions' equivalent / interchangeable?", 
+    "votes": 579, 
+    "answers": 3, 
+    "time": "2015-12-18 17:58:00Z", 
+    "views": 151229, 
+    "tags": [
+      "javascript", 
+      "ecmascript-6", 
+      "arrow-functions"
+    ], 
+    "author": "Felix Kling"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Learning Regular Expressions [closed]", 
+    "votes": 166, 
+    "answers": 1, 
+    "time": null, 
+    "views": 126849, 
+    "tags": [
+      "regex"
+    ], 
+    "author": "Teifion"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How do I get PHP errors to display?", 
+    "votes": 1789, 
+    "answers": 27, 
+    "time": "2009-06-27 19:09:59Z", 
+    "views": 3039363, 
+    "tags": [
+      "php", 
+      "error-handling", 
+      "syntax-error", 
+      "error-reporting"
+    ], 
+    "author": "Abs"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to make a flat list out of list of lists?", 
+    "votes": 3749, 
+    "answers": 45, 
+    "time": "2009-06-04 20:30:05Z", 
+    "views": 2515144, 
+    "tags": [
+      "python", 
+      "list", 
+      "multidimensional-array", 
+      "flatten"
+    ], 
+    "author": "Emma"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "Undefined behavior and sequence points", 
+    "votes": 1003, 
+    "answers": 5, 
+    "time": null, 
+    "views": 107876, 
+    "tags": [
+      "c++", 
+      "undefined-behavior", 
+      "c++-faq", 
+      "sequence-points"
+    ], 
+    "author": "unknown\r\n        "
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "SQL select only rows with max value on a column [duplicate]", 
+    "votes": 1316, 
+    "answers": 27, 
+    "time": "2011-10-12 19:42:07Z", 
+    "views": 1329910, 
+    "tags": [
+      "mysql", 
+      "sql", 
+      "aggregate-functions", 
+      "greatest-n-per-group", 
+      "groupwise-maximum"
+    ], 
+    "author": "Majid Fouladpour"
+  }
+}{
+  "<Selector xpath=\"descendant-or-self::div[@class and contains(concat(' ', normalize-space(@class), ' '), ' question-summary ')]\" data='<div class=\"question-summary\" id=\"que...'>": {
+    "title": "How to remove items from a list while iterating?", 
+    "votes": 933, 
+    "answers": 26, 
+    "time": "2009-07-30 15:36:42Z", 
+    "views": 575703, 
+    "tags": [
+      "python", 
+      "iteration"
+    ], 
+    "author": "lfaraone"
+  }
+}

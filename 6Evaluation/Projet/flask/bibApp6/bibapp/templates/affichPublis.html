@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+
+{% block content %}
+
+<div style="margin-left: 2%;">
+<h2 style="text-align: center;">
+Publis de {{ Qui }} 
+</h2>
+<br>
+<br>
+
+<ol>
+{% for publi in listePublis %}
+<li> 
+{{ publi.authors}}, <i> {{ publi.Title }} <i>, {{ publi.Year }}
+</li>
+<br>
+{% endfor %}
+</ol>
+
+</div>
+
+{% endblock %}

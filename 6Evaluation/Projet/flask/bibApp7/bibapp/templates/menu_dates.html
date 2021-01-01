@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block head %}
+    {{ super() }}
+        <title>{% block title %}
+        {% if title %}
+            {{ title }} 
+        {% else %}
+            Page
+        {% endif %}
+    {% endblock title %}</title>
+    <style> .container {
+        margin-left: 30px;
+    } 
+    </style>
+
+
+{% endblock %}
+
+
+{% block content %}
+
+    
+<div class="container">
+
+    {% for message in get_flashed_messages() %}
+    <div class="alert alert-warning">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        {{ message }}
+    </div>
+    {% endfor %}
+
+    {% block page_content %}{% endblock %}
+    {% block container %} {% endblock %}
+
+<H2>   {{ title }}  </H2>
+
+
+<form action="" method="post" name="prise">
+		  {{ form.hidden_tag() }}
+          {{ form.mySelect }} 
+
+		  <p>
+			  {{ form.dateDebut.label }}<br>
+			  {{ form.dateDebut(size=40, class_='dateDebut', placeholder='jj/mm/AAAA') }}
+			  {% for error in form.priseDateDebut.errors %}
+			  	<span style="color: red">{{ error }}</span>
+			  {% endfor %}<br>
+		  </p>
+		  <p>
+			  {{ form.dateFin.label }}<br>
+			  {{ form.dateFin(size=40, class_='dateFin', placeholder='jj/mm/AAAA') }}
+			  {% for error in form.priseDateFin.errors %}
+			  	<span style="color: red">{{ error }}</span>
+			  {% endfor %}<br>
+		  </p>
+
+		  <p><input class="btn btn-success" type="submit" value="Valider"></p>
+  </form>	
+
+
+
+</div>
+
+{% endblock %}
+
+
