@@ -1,14 +1,20 @@
 import scrapy
 from ..items import ProjectItem
+from scrapy import Request
 
 class StackoverflowSpider(scrapy.Spider):
     name = 'stack'
-    allowed_domains = ['www.stackoverflow.com']
-    start_urls = ['https://stackoverflow.com/questions?tab=Frequent&pagesize=50&page=1']
-    page_number = 2
+    start_urls = ['https://stackoverflow.com/questions?tab=frequent&pagesize=50']
 
     def parse(self, response):
 
+        nb_pages = max( map( int,response.css('div.s-pagination').css('a.js-pagination-item::text').extract()[:-1] ) )
+        urls = ['https://stackoverflow.com/questions?tab=Frequent&pagesize=50&page='+ str(i) for i in range(1,nb_pages+1) ]
+
+        for next_url in urls:
+            yield Request(next_url, callback=self.parse_page)
+
+    def parse_page(self, response):
         items = ProjectItem()
 
         for elt in response.css('div.question-summary'):
@@ -32,9 +38,3 @@ class StackoverflowSpider(scrapy.Spider):
             items['author'] = author
             
             yield items
-
-        nb_pages = max( map( int,response.css('div.s-pagination').css('a.js-pagination-item::text').extract()[:-1] ) )
-        next_urls = ['https://stackoverflow.com/questions?tab=Frequent&pagesize=50&page='+ str(i) for i in range(nb_pages+1) if i not in [0,1] ]
-
-        for next_url in next_urls:
-            yield Request(next_url, callback=self.parse)     
