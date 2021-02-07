@@ -5,7 +5,9 @@
 Notre projet consiste à scrapper le site Stack Overflow et à en récupérer les questions posée en sauvegardant leur titre, le nombre de votes, le nombre de réponse, la date à laquelle la question a été posée ainsi que l'auteur de la question, le nombre de vues et les tags de la question.
 Ces informations seront ensuite stockées dans une base ElasticSearch qui sera accessible via notre application flask au moyen de requêtes.
 
-Pour lancer le projet, montez l'image docker fournie et lancer les containers. Il faut ensuite activer l'environnement dans lequel s'exécute flask, pour se faire placez-vous dans le dossier flask_app puis faites la commande : ``venv\Scripts\activate.bat``. Ensuite pour lancer l'application Flask, exécuter la commande ``flask run``. Si celle-ci ne fonctionne pas, vous pouvez exécuter le fichier run.py .
+Pour lancer le projet, montez l'image docker fournie et lancer les containers. Il faut ensuite activer l'environnement dans lequel s'exécute flask, pour se faire placez-vous dans le dossier flask_app puis faites la commande : ``venv\Scripts\activate.bat``. Ensuite pour lancer l'application Flask, exécuter la commande ``flask run``. Si celle-ci ne fonctionne pas, vous pouvez exécuter le fichier run.py.
+
+
 
 ---------------------------
 **Fonctionnalités du site**
@@ -38,6 +40,8 @@ Affichage du graphe :
 .. image:: Images/resultsgraphs.png
 
 Les données sont stockées dans une base de données ElasticSearch et sont utilisées dans le site grâce à divers requêtes. Une fois les requêtes exécutées avec la fonction search de l'objet ElasticSearch, les données sont récupérées dans des dataframes Pandas pour être affichées (après avoir été éventuellement traitées) grâce à un plot. Actuellement, toutes les données proviennent de la base ElasticSearch exception faites des données sur l'activité horaire du site. Ces données devant être récupérées dans toute la base, nous avions besoin d'utiliser des fonctions d'aggrégations dans nos requêtes, fonctions que nous n'avons pas réussi à mettre en place à cause de conflit de type du champ Elastic contenant les dates. Le graphique montrant l'activité horaire est donc obtenu directement à partir des données stockées dans le json issu du parsing.
+
+
 
 ---------------------------
 **Parsing de StackOverflow**
