@@ -1,5 +1,7 @@
+###PROJET DATA-ENGINEERING : Application Flask sur les données de StackOverflow
+
 Notre projet consiste à scrapper le site Stack Overflow et à en récupérer les questions posée en sauvegardant leur titre, le nombre de votes, le nombre de réponse, la date à laquelle la question a été posée ainsi que l'auteur de la question, le nombre de vues et les tags de la question.
-Ces informations seront ensuite stockées dans une base elastisearch qui sera accessible via notre application flask au moyen de requêtes.
+Ces informations seront ensuite stockées dans une base elasticsearch qui sera accessible via notre application flask au moyen de requêtes.
 
 
 Pour lancer le projet, montez l'image docker fournie et lancer les containers. Il faut ensuite activer l'environnement dans lequel s'exécute flask, pour ce faire placez vous dans le dossier flask_app puis faites la commande : "venv\Scripts\activate.bat". Ensuite pour lancer l'application flask, exécuter la commande "flask run". Si celle-ci ne fonctionne pas vous pouvez exécuter le fichier run.py .
