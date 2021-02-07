@@ -13,9 +13,19 @@ Pour lancer le projet, montez l'image docker fournie et lancer les containers. I
 
 Le site Flask offre plusieurs fonctionnalités : vous pouvez créer un compte utilisateur et vous connectez (pour des raison de practicités le fait d'être identifié n'apporte aucun avantage sur l'application mais ceci est rapidement paramétrable). 
 
-La première fonctionnalité utilisant les données est une fonction de recherche permettant de rechercher un élément dans le champ choisi dans le menu déroulant. On peut sélectionner sur quelle variable chercher, donc on peut chercher un mot d'un titre de topic, ou un auteur particulier, ou par rapport aux nombre de vues. On appuie ensuite sur le bouton Go pour afficher les premiers résultats liés à notre requête. 
+.. image:: Images/login.png
+
+La première fonctionnalité utilisant les données est une fonction de recherche permettant de rechercher un élément dans le champ choisi dans le menu déroulant. On peut sélectionner sur quelle variable chercher, donc on peut chercher un mot d'un titre de topic, ou un auteur particulier, ou par rapport aux nombre de vues. On appuie ensuite sur le bouton Go pour afficher les premiers résultats liés à notre requête.
+
+.. image:: Images/search.png
+
+.. image:: Images/resultsearch.png
 
 La seconde permet d'afficher des statistiques sur le site comme les utilisateurs posant le plus de questions, les tags les plus recherchés (et donc les langages de programmation les plus populaires), ou encore les heures avec le plus d'activité sur le site. Après avoir fait notre choix, l'application affiche alors un graphe dont on peut lire les données en déplaçant le curseur sur le graphe.
+
+.. image:: Images/graphs.png
+
+.. image:: Images/resultsgraphs.png
 
 Les données sont stockées dans une base de données ElasticSearch et sont utilisées dans le site grâce à divers requêtes. Une fois les requêtes exécutées avec la fonction search de l'objet ElasticSearch, les données sont récupérées dans des dataframes Pandas pour être affichées (après avoir été éventuellement traitées) grâce à un plot. Actuellement, toutes les données proviennent de la base ElasticSearch exception faites des données sur l'activité horaire du site. Ces données devant être récupérées dans toute la base, nous avions besoin d'utiliser des fonctions d'aggrégations dans nos requêtes, fonctions que nous n'avons pas réussi à mettre en place à cause de conflit de type du champ Elastic contenant les dates. Le graphique montrant l'activité horaire est donc obtenu directement à partir des données stockées dans le json issu du parsing.
 
