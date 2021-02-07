@@ -76,7 +76,7 @@ def create_figure(label): #Fonction pour faire trois différents types de graphe
         titles = []
 
         for hit in result['hits']['hits']:
-            print(hit)
+            #print(hit)
             titre = str("{" + labels[2] + "}").format(**hit['_source'])
             view = str("{" + labels[1] + "}").format(**hit['_source'])
 
