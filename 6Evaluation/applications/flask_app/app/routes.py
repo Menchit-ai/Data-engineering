@@ -16,7 +16,7 @@ import numpy as np
 
 #####################
 
-def create_figure(label):
+def create_figure(label): #Fonction pour faire trois différents types de graphe avec les données
     size = 20
 
     labels = label.split()
@@ -157,12 +157,12 @@ def create_figure(label):
 ####################
 
 @app.route('/')
-@app.route('/index')
+@app.route('/index') #Page de bienvenue avec plusieurs liens à d'autres pages
 def index():
     return render_template('index.html', title='Home')
 
 
-@app.route('/login', methods=['GET', 'POST'])
+@app.route('/login', methods=['GET', 'POST']) #Pour se connecter à un compte, mais c'est inutile sur l'appli
 def login():
     if current_user.is_authenticated:
         return redirect(url_for('index'))
@@ -179,13 +179,13 @@ def login():
         return redirect(next_page)
     return render_template('login.html', title='Sign In', form=form)
 
-@app.route('/logout')
+@app.route('/logout') #Pour se déconnecter
 def logout():
     logout_user()
     return redirect(url_for('index'))
 
 
-@app.route('/register', methods=['GET', 'POST'])
+@app.route('/register', methods=['GET', 'POST']) #Pour créer un compte
 def register():
     if current_user.is_authenticated:
         return redirect(url_for('index'))
@@ -199,20 +199,20 @@ def register():
         return redirect(url_for('login'))
     return render_template('register.html', title='Register', form=form)
 
-@app.route('/search', methods=('GET', 'POST'))
+@app.route('/search', methods=('GET', 'POST')) #Pour faire une recherche en fonction d'une caractéristique
 #@login_required
 def search():
     print("current_user", current_user)
     result = es.search(index="stacks", body={"query": {"match_all": {}}}, size=10)
-    var = list(result['hits']['hits'][0]['_source'].keys())
+    var = list(result['hits']['hits'][0]['_source'].keys()) #On prend toutes les variables de la base de données
     var.sort()
-    form = MySelectMenu(choices=var, selectFieldName="Choix d'une variable")
+    form = MySelectMenu(choices=var, selectFieldName="Choix d'une variable") #Form retournant le choix de la variable et le mot recherché
     if form.validate_on_submit():
         return redirect('/result/'+ form.mySelect.data + '/' + form.research.data)
     return render_template('menu.html', form=form, title="Search")
 
 @app.route('/result/')
-@app.route('/result/<tag>/<research>')
+@app.route('/result/<tag>/<research>') #Résultat de la recherche en fonction de la variable et du mot tapé
 def searchresult(tag=None, research=None):
     if tag is None:
         flash("pas de label spécifié")
@@ -224,7 +224,8 @@ def searchresult(tag=None, research=None):
         }
       }
     }
-    result = es.search(index="stacks", body=QUERY, size=200)
+    result = es.search(index="stacks", body=QUERY, size=200) #Query qui cherche les mentions de la recherche sur la variable
+    #On prend les 200 premiers résultats
 
     ids = []
     titles = []
@@ -232,18 +233,17 @@ def searchresult(tag=None, research=None):
     if len(result['hits']['hits']) != 0 :
         for hit in result['hits']['hits']:
             titre = "{title}".format(**hit['_source'])
-            if titre not in titles :
+            if titre not in titles : #Il peut apparaître des topics doublons qu'on ne prend pas
                 titles.append(titre)
                 print(titre)
                 ids.append(hit['_source'])
 
     if len(ids) == 0 :
-        ids = []
-        no = True
+        no = True #Si on n'a pas de résultat, on affiche qu'il n'y a aucun résultat
 
     return render_template('result.html', results = ids, condition = no)
 
-@app.route('/graphs', methods=('GET', 'POST'))
+@app.route('/graphs', methods=('GET', 'POST')) #Menu pour le choix des graphes
 #@login_required
 def graphs():
     print("current_user", current_user)
@@ -251,7 +251,7 @@ def graphs():
     #var = list(result['hits']['hits'][0]['_source'].keys())
     #var.sort()
     var = [('max author.keyword 20', 'Auteur avec le plus de posts'), ('max tags.keyword 20', 'Tags apparaissant le plus de fois'), ('look views title 50', 'Topics les plus fréquentés')
-    , ('mean views 20','Moyenne des vues en fonction des tags populaires'), ('date',"Moyenne d'activité du site")]
+    , ('mean views 20','Moyenne des vues en fonction des tags populaires'), ('date',"Moyenne d'activité du site")] #Cinq graphes disponibles
 
     graphTitles = ['Auteur avec le plus de posts', 'Tags apparaissant le plus de fois', 'Topics les plus fréquentés', 'Moyenne des vues en fonction des tags populaires', "Moyenne d'activité du site"]
 
@@ -259,12 +259,12 @@ def graphs():
     if form.validate_on_submit():
         name = "Graphe"
         for i in range(len(var)) :
-            if form.mySelect.data in var[i] :
+            if form.mySelect.data in var[i] : #Pour avoir le titre du graphe
                 name = graphTitles[i]
         return redirect('/graphresult/'+ form.mySelect.data + '/' + name)
     return render_template('graphmenu.html', form=form, title="Graphs")
 
 @app.route('/graphresult/<label>/<name>')
 def plotgraph(label=None, name=None):
-    fig = create_figure(label)
+    fig = create_figure(label) #Fonction traçant le graphe choisi
     return render_template('graphresult.html', graph=fig, name=name)

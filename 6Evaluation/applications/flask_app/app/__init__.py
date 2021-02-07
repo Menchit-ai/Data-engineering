@@ -7,12 +7,12 @@ from elasticsearch import Elasticsearch
 import pandas as pd
 from config import Config
 
-app = Flask(__name__)
+app = Flask(__name__) #Application Flask
 app.config.from_object(Config)
 Bootstrap(app)
-db = SQLAlchemy(app)
-es = Elasticsearch([{"host": "host.docker.internal", "port": 9200}])
-fich = pd.read_json("./json/data.json")
+db = SQLAlchemy(app) #Pour les logins
+es = Elasticsearch([{"host": "host.docker.internal", "port": 9200}]) #ElasticSearch StackOverflow
+fich = pd.read_json("./json/data.json") #fichier json contenant les données de StackOverflow
 migrate = Migrate(app, db)
 login = LoginManager(app)
 login.login_view = 'login'

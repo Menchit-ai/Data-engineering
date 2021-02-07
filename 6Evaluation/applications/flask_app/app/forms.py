@@ -4,14 +4,14 @@ from wtforms.validators import ValidationError, DataRequired, Email, EqualTo
 from app.models import User
 
 
-class LoginForm(FlaskForm):
+class LoginForm(FlaskForm): #Form pour se connecter
     username = StringField('Username', validators=[DataRequired()])
     password = PasswordField('Password', validators=[DataRequired()])
     remember_me = BooleanField('Remember Me')
     submit = SubmitField('Sign In')
 
 
-class RegistrationForm(FlaskForm):
+class RegistrationForm(FlaskForm): #Form pour s'enregistrer
     username = StringField('Username', validators=[DataRequired()])
     email = StringField('Email', validators=[DataRequired(), Email()])
     password = PasswordField('Password', validators=[DataRequired()])
@@ -29,7 +29,7 @@ class RegistrationForm(FlaskForm):
         if user is not None:
             raise ValidationError('Please use a different email address.')
 
-class MySelectMenu(FlaskForm):
+class MySelectMenu(FlaskForm): #Form pour la recherche
   
     mySelect = SelectField('selectFieldName', 
                 choices=[], 
@@ -44,7 +44,7 @@ class MySelectMenu(FlaskForm):
         self['mySelect'].label = selectFieldName    
         self['mySelect'].choices = choices
 
-class GraphsMenu(FlaskForm):
+class GraphsMenu(FlaskForm): #Form pour le choix de graphe
   
     mySelect = SelectField('selectFieldName', 
                 choices=[], 
