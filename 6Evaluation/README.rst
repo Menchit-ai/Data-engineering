@@ -19,11 +19,15 @@ La première fonctionnalité utilisant les données est une fonction de recherch
 
 .. image:: Images/search.png
 
+...............
+
 .. image:: Images/resultsearch.png
 
 La seconde permet d'afficher des statistiques sur le site comme les utilisateurs posant le plus de questions, les tags les plus recherchés (et donc les langages de programmation les plus populaires), ou encore les heures avec le plus d'activité sur le site. Après avoir fait notre choix, l'application affiche alors un graphe dont on peut lire les données en déplaçant le curseur sur le graphe.
 
 .. image:: Images/graphs.png
+
+...............
 
 .. image:: Images/resultsgraphs.png
 
