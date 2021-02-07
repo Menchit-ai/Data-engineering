@@ -17,17 +17,21 @@ Le site Flask offre plusieurs fonctionnalités : vous pouvez créer un compte ut
 
 La première fonctionnalité utilisant les données est une fonction de recherche permettant de rechercher un élément dans le champ choisi dans le menu déroulant. On peut sélectionner sur quelle variable chercher, donc on peut chercher un mot d'un titre de topic, ou un auteur particulier, ou par rapport aux nombre de vues. On appuie ensuite sur le bouton Go pour afficher les premiers résultats liés à notre requête.
 
+Pour rechercher :
+
 .. image:: Images/search.png
 
-...............
+Résultats de notre requête :
 
 .. image:: Images/resultsearch.png
 
 La seconde permet d'afficher des statistiques sur le site comme les utilisateurs posant le plus de questions, les tags les plus recherchés (et donc les langages de programmation les plus populaires), ou encore les heures avec le plus d'activité sur le site. Après avoir fait notre choix, l'application affiche alors un graphe dont on peut lire les données en déplaçant le curseur sur le graphe.
 
+Choix du graphe :
+
 .. image:: Images/graphs.png
 
-...............
+Affichage du graphe :
 
 .. image:: Images/resultsgraphs.png
 
