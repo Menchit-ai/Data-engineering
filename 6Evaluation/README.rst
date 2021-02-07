@@ -11,7 +11,9 @@ Pour lancer le projet, montez l'image docker fournie et lancer les containers. I
 **Fonctionnalités du site**
 ---------------------------
 
-Le site Flask offre plusieurs fonctionnalités : vous pouvez créer un compte utilisateur et vous connectez (pour des raison de practicités le fait d'être identifié n'apporte aucun avantage sur l'application mais ceci est rapidement paramétrable). 
+Le site Flask offre plusieurs fonctionnalités : vous pouvez créer un compte utilisateur et vous connectez (pour des raison de praticités le fait d'être identifié n'apporte aucun avantage sur l'application mais ceci est rapidement paramétrable).
+
+Pour se connecter :
 
 .. image:: Images/login.png
 
