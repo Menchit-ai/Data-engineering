@@ -235,7 +235,6 @@ def searchresult(tag=None, research=None):
             titre = "{title}".format(**hit['_source'])
             if titre not in titles : #Il peut apparaître des topics doublons qu'on ne prend pas
                 titles.append(titre)
-                print(titre)
                 ids.append(hit['_source'])
 
     if len(ids) == 0 :
