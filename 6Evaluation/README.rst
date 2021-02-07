@@ -1,25 +1,11 @@
-Les Projets
-===========
+Notre projet consiste à scrapper le site Stack Overflow et à en récupérer les questions posée en sauvegardant leur titre, le nombre de votes, le nombre de réponse, la date à laquelle la question a été posée ainsi que l'auteur de la question, le nombre de vues et les tags de la question.
+Ces informations seront ensuite stockées dans une base elastisearch qui sera accessible via notre application flask au moyen de requêtes.
 
-Cette année pour l'évaluation, vous serez assez libre.
 
-Consignes
-*********
+Pour lancer le projet, montez l'image docker fournie et lancer les containers. Il faut ensuite activer l'environnement dans lequel s'exécute flask, pour ce faire placez vous dans le dossier flask_app puis faites la commande : "venv\Scripts\activate.bat". Ensuite pour lancer l'application flask, exécuter la commande "flask run". Si celle-ci ne fonctionne pas vous pouvez exécuter le fichier run.py .
 
-- Vous devez créer une application Web vous basant sur le package Flask.
-- Votre application devra récupérer des données sur le web soit des données Open Data soit des données scrapées grâce à ce que vous aurez appris durant ce cours.
-- Votre application devra afficher les données de façon optimale, moteur de recherche, graphiques, etc. 
-- Vous devrez utiliser une ou plusieurs bases de données abordées dans ce cours. 
-- Vous devrez créer une documentation technique et fonctionnelle.  
+Le site flask offre plusieurs fonctionnalités : vous pouvez créer un compte utilisateur et vous connectez (pour des raison de praticités le fait d'être identifié n'apporte aucun avantage sur l'application mais ceci est rapidement paramétrable). La première fonctionnalités utilisant les données est une fonction de recherche permettant de rechercher un élément dans le champ choisi dans le menu déroulant. La seconde permet d'afficher des statistiques sur le site comme les utilisateurs posant le plus de questions, les tags les plus recherchés (et donc les langages de programmation les plus populaires), ou encore les heures avec le plus d'activité sur le site.
 
-Evaluation
-**********
+Les données sont stockées dans une base de données elasticsearch et sont utilisées dans le site grâce à divers requêtes. Une fois les requêtes exécutées, les données sont récupérées dans des dataframes pandas pour être affichées (après avoir été éventuellement traitées). Actuellement toutes les données proviennent de la base elasticsearch exception faites des données sur l'activité horaire du site. Ces données devant être récupérées dans toute la base nous avions besoin d'utiliser des fonctions d'aggrégations dans nos requêtes, fonctions que nous n'avons pas réussi à mettre en place à cause de conflit de type du champ elastic contenant les dates. Le graphiques montrant l'activité horaire est donc obtenue directement à partir des données stockées dans le json issue du parsing.
 
-- [] Bonus scraping  
-
-- [] Bonus scraping temps réel  
-
-- [] Bonus Docker 
-
-- [] Bonus Docker-compose  
-
+Ces données ont été obtenues grâce à une spiders scrapy nommée stack. Cette spider parse tout le site stackoverflow en obtenant tout d'abord le nombre de pages totales du site, puis parse chaque page individuellement afin d'extraire le titre de chaque question ainsi que leur auteur, la date à laquelle la question a été postée, ainsi que le nombre de vues et de votes pour la question. Ces informations sont scrappées et stockées dans un fichier nommé data.json trouvable dans le dossier scrapy_project. La spider utilise une rotation de user agent ainsi qu'un changement automatique de proxy afin de pouvoir scrapper tout le site sans être bloqué.

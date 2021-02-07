@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+
+{% block content %}
+
+<div style="margin-left: 2%;">
+<h2 style="text-align: center;">
+Résultats de la recherche :
+</h2>
+<br>
+<br>
+
+<ol>
+{% for res in results %}
+<li> 
+Titre du sujet : {{ res['title']}}, Votes : {{ res['votes'] }}, Réponses : {{ res['answers'] }}, Date : {{ res['date'] }}, 
+Vues : {{ res['views'] }}, Tags : {{ res['tags'] }}, auteur : {{ res['author'] }}
+</li>
+<br>
+{% endfor %}
+</ol>
+
+{% if condition %}
+    Aucun résultat trouvé
+{% endif %}
+
+<li> <a href='/search'>Retour</a> </li>
+
+</div>
+
+{% endblock %}
